@@ -1,0 +1,29 @@
+{
+  "source": "Existing hiyu-landing/public/assets/figma originals; copied without image changes",
+  "assets": {
+    "bunno": {
+      "source": "public/assets/figma/emotion-angry.svg",
+      "copy": "pain-test/site/pain-test/assets/emotion-angry.svg"
+    },
+    "dapdap": {
+      "source": "public/assets/figma/emotion-frustrated.svg",
+      "copy": "pain-test/site/pain-test/assets/emotion-frustrated.svg"
+    },
+    "jichim": {
+      "source": "public/assets/figma/emotion-exhausted.svg",
+      "copy": "pain-test/site/pain-test/assets/emotion-exhausted.svg"
+    },
+    "jjajeung": {
+      "source": "public/assets/figma/emotion-irritated.svg",
+      "copy": "pain-test/site/pain-test/assets/emotion-irritated.svg"
+    },
+    "jwajeol": {
+      "source": "public/assets/figma/emotion-discouraged.svg",
+      "copy": "pain-test/site/pain-test/assets/emotion-discouraged.svg"
+    },
+    "bubble": {
+      "source": "public/assets/figma/bubble-main.svg",
+      "copy": "pain-test/site/pain-test/assets/bubble-main.svg"
+    }
+  }
+}

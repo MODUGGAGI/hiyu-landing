@@ -1,0 +1,37 @@
+.notification-demo { display:block;width:100%;border:0;margin:30px 0; }
+.notification-takeaways { display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:32px;margin:36px 0; }
+.notification-takeaways section { border-left:4px solid #c8d0cb;padding-left:18px; }
+.notification-takeaways section+section { border-color:var(--yellow); }
+.notification-takeaways .technology-step { color:#626b65; }
+.notification-takeaways h5 { margin:8px 0 12px;font-size:20px;font-weight:850;line-height:1.6;word-break:keep-all; }
+.notification-takeaways p { margin:0;font-size:15px;line-height:1.9;word-break:keep-all; }
+.notification-demo-prompt { font-size:15px;margin-bottom:0; }
+.notification-flow { margin:48px 0 36px; }
+.notification-flow ol { display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:28px;list-style:none;padding:0;margin:26px 0 18px; }
+.notification-flow li { position:relative;border-top:3px solid var(--yellow);padding-top:16px; }
+.notification-flow li+li::before { content:'→';position:absolute;left:-22px;top:43px;color:#626b65; }
+.notification-flow li>span { font-size:12px;font-weight:800;color:#626b65; }
+.notification-flow h5 { margin:8px 0;font-size:17px;font-weight:850;word-break:keep-all; }
+.notification-flow li p { margin:0;font-size:14px;line-height:1.8;word-break:keep-all; }
+.notification-result { display:flex;align-items:center;justify-content:space-between;gap:24px;padding:24px 0;border-block:1px solid var(--line); }
+.notification-result p { font-size:14px;color:#626e66; }
+.notification-result-values { display:flex;align-items:center;gap:24px;flex:none; }
+.notification-result-values>span { font-size:13px; }
+.notification-result-values strong { display:block;font-size:38px;line-height:1.6;font-variant-numeric:tabular-nums; }
+.notification-result-values small { font-size:14px;font-weight:650; }
+.notification-result-values mark { color:inherit;background:linear-gradient(transparent 57%,var(--yellow) 57%); }
+.notification-story code { overflow-wrap:anywhere; }
+/* Four topics retain one row while leaving room for the header's main links. */
+.technology-tabs .technology-tab { padding-inline:16px; }
+@media(max-width:800px) {
+ .notification-takeaways { grid-template-columns:1fr;gap:20px; }
+ .notification-flow ol { grid-template-columns:1fr;gap:18px; }
+ .notification-flow li { border-top:0;border-left:3px solid var(--yellow);padding:0 0 0 18px; }
+ .notification-flow li+li::before { content:none; }
+}
+@media(max-width:700px) {
+ .notification-result { align-items:flex-start;flex-direction:column;gap:12px; }
+ .notification-result-values { gap:18px; }
+ .notification-result-values strong { font-size:32px; }
+ .technology-tabs .technology-tab { padding-inline:12px; }
+}

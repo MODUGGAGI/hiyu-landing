@@ -1,0 +1,313 @@
+{
+  "fileKey": "pij0xgYkvf8JLM6A3j1ZLa",
+  "source": "Figma UI SVG exports: Group 311 (2171:2861), phone (2161:62599)",
+  "assets": [
+    {
+      "asset": "map-landscape.svg",
+      "sourceNode": "2171:2861",
+      "childIndexes": [
+        0
+      ],
+      "viewBox": [
+        0,
+        0,
+        2364,
+        1144
+      ]
+    },
+    {
+      "asset": "bubble-main.svg",
+      "sourceNode": "2171:2861",
+      "childIndexes": [
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93
+      ],
+      "viewBox": [
+        1376,
+        134,
+        879,
+        879
+      ]
+    },
+    {
+      "asset": "bubble-small.svg",
+      "sourceNode": "2171:2861",
+      "childIndexes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "viewBox": [
+        1275,
+        77,
+        181,
+        170
+      ]
+    },
+    {
+      "asset": "bubble-scene.svg",
+      "sourceNode": "2171:2861",
+      "childIndexes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78
+      ],
+      "viewBox": [
+        0,
+        0,
+        2364,
+        1144
+      ]
+    },
+    {
+      "asset": "emotion-angry.svg",
+      "sourceNode": "2171:2861",
+      "childIndexes": [
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103
+      ],
+      "viewBox": [
+        1852,
+        680,
+        230,
+        235
+      ]
+    },
+    {
+      "asset": "emotion-discouraged.svg",
+      "sourceNode": "2171:2861",
+      "childIndexes": [
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110
+      ],
+      "viewBox": [
+        1574,
+        685,
+        230,
+        235
+      ]
+    },
+    {
+      "asset": "emotion-irritated.svg",
+      "sourceNode": "2171:2861",
+      "childIndexes": [
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118
+      ],
+      "viewBox": [
+        1711,
+        247,
+        230,
+        235
+      ]
+    },
+    {
+      "asset": "emotion-frustrated.svg",
+      "sourceNode": "2171:2861",
+      "childIndexes": [
+        119,
+        120,
+        121,
+        122,
+        123,
+        124
+      ],
+      "viewBox": [
+        1463,
+        404,
+        230,
+        235
+      ]
+    },
+    {
+      "asset": "emotion-exhausted.svg",
+      "sourceNode": "2171:2861",
+      "childIndexes": [
+        125
+      ],
+      "viewBox": [
+        1955,
+        409,
+        236,
+        241
+      ]
+    },
+    {
+      "asset": "phone-frame.svg",
+      "sourceNode": "2161:62599",
+      "childIndexes": [
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "viewBox": [
+        96,
+        410,
+        1024,
+        2116
+      ],
+      "excludedChildIndexes": [
+        6
+      ],
+      "exclusionReason": "Omit the exported outer blur shadow, which is clipped to a visible rectangle by the phone viewBox. Original bezel and side-button paths are unchanged."
+    },
+    {
+      "asset": "registration-snackbar.svg",
+      "sourceNode": "2172:2834",
+      "sourceName": "Group 312",
+      "source": "Unmodified original SVG downloaded through the Figma browser export UI. Text, success icon, outline and lower shadow remain vector paths; no preview raster image.",
+      "sourceSize": [
+        354,
+        52
+      ],
+      "viewBox": [
+        0,
+        0,
+        354,
+        52
+      ]
+    },
+    {
+      "asset": "phone-status.svg",
+      "sourceNode": "2161:62076",
+      "sourceName": "01_온보딩 1",
+      "source": "Original SVG downloaded through the Figma browser export UI. Extracted the unchanged Dynamic Island, clock and system icon paths, preserving their original coordinates. Removed the full-screen background.",
+      "reference": "reference/figma-onboarding-2161-62076.svg",
+      "childIndexes": [
+        1,
+        12,
+        13
+      ],
+      "viewBox": [
+        0,
+        0,
+        402,
+        54
+      ]
+    }
+  ]
+}

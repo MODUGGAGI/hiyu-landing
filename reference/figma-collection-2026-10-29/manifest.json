@@ -1,0 +1,3907 @@
+{
+  "figmaFile": "pij0xgYkvf8JLM6A3j1ZLa",
+  "downloadMethod": "Figma UI SVG export",
+  "characterNode": "3184:2850",
+  "assets": [
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern1_3184_2850",
+      "title": "지침이 · 기존 기본형 · 이미지",
+      "sourceImagePixels": [
+        898,
+        1751
+      ],
+      "crop": [
+        48.0,
+        222.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/exhausted/01.png",
+      "webFile": "public/assets/collection-figma/characters/exhausted/01.webp"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern2_3184_2850",
+      "title": "01 · 지침이 · 이불 밖 위험 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        432.0,
+        222.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/exhausted/02.png",
+      "webFile": "public/assets/collection-figma/characters/exhausted/02.webp"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern3_3184_2850",
+      "title": "02 · 지침이 · 카페인 수혈 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        816.0,
+        222.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/exhausted/03.png",
+      "webFile": "public/assets/collection-figma/characters/exhausted/03.webp"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern4_3184_2850",
+      "title": "03 · 지침이 · 퇴근길 방전 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        1200.0,
+        222.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/exhausted/04.png",
+      "webFile": "public/assets/collection-figma/characters/exhausted/04.webp"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern5_3184_2850",
+      "title": "04 · 지침이 · 책상과 한 몸 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        1584.0,
+        222.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/exhausted/05.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern6_3184_2850",
+      "title": "05 · 지침이 · 충전 중입니다 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        1968.0,
+        222.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/exhausted/06.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern31_3184_2850",
+      "title": "지침이 · 회의 과부하 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        2352.0,
+        222.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/exhausted/07.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern32_3184_2850",
+      "title": "지침이 · 키보드 취침 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        2736.0,
+        222.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/exhausted/08.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern33_3184_2850",
+      "title": "지침이 · 야근 컵라면 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        3120.0,
+        222.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/exhausted/09.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern34_3184_2850",
+      "title": "지침이 · 퇴근길 매달림 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        3504.0,
+        222.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/exhausted/10.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern35_3184_2850",
+      "title": "지침이 · 시험 후 영혼탈출 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        3888.0,
+        222.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/exhausted/11.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern36_3184_2850",
+      "title": "지침이 · 소파와 한몸 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        4272.0,
+        222.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/exhausted/12.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern37_3184_2850",
+      "title": "지침이 · 빨래 매몰 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        4656.0,
+        222.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/exhausted/13.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern38_3184_2850",
+      "title": "지침이 · 장보기 방전 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        5040.0,
+        222.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/exhausted/14.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern39_3184_2850",
+      "title": "지침이 · 운동 후 납작 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        5424.0,
+        222.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/exhausted/15.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern40_3184_2850",
+      "title": "지침이 · 욕조 해동 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        5808.0,
+        222.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/exhausted/16.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern7_3184_2850",
+      "title": "답답이 · 기존 기본형 · 이미지",
+      "sourceImagePixels": [
+        899,
+        1749
+      ],
+      "crop": [
+        48.0,
+        602.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/frustrated/01.png",
+      "webFile": "public/assets/collection-figma/characters/frustrated/01.webp"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern8_3184_2850",
+      "title": "06 · 답답이 · 말문 교통체증 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        432.0,
+        602.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/frustrated/02.png",
+      "webFile": "public/assets/collection-figma/characters/frustrated/02.webp"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern9_3184_2850",
+      "title": "07 · 답답이 · 로딩 지옥 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        816.0,
+        602.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/frustrated/03.png",
+      "webFile": "public/assets/collection-figma/characters/frustrated/03.webp"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern10_3184_2850",
+      "title": "08 · 답답이 · 미로에 갇힘 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        1200.0,
+        602.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/frustrated/04.png",
+      "webFile": "public/assets/collection-figma/characters/frustrated/04.webp"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern11_3184_2850",
+      "title": "09 · 답답이 · 숨통 찾는 중 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        1584.0,
+        602.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/frustrated/05.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern12_3184_2850",
+      "title": "10 · 답답이 · 매듭 인생 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        1968.0,
+        602.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/frustrated/06.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern52_3184_2850",
+      "title": "답답이 · 버그 수색 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        2352.0,
+        602.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/frustrated/07.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern53_3184_2850",
+      "title": "답답이 · 병목에 꽉 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        2736.0,
+        602.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/frustrated/08.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern54_3184_2850",
+      "title": "답답이 · 문제집과 씨름 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        3120.0,
+        602.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/frustrated/09.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern55_3184_2850",
+      "title": "답답이 · 무한 쳇바퀴 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        3504.0,
+        602.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/frustrated/10.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern56_3184_2850",
+      "title": "답답이 · 열쇠만 한가득 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        3888.0,
+        602.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/frustrated/11.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern57_3184_2850",
+      "title": "답답이 · 답장 대기중 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        4272.0,
+        602.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/frustrated/12.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern58_3184_2850",
+      "title": "답답이 · 꽉 막힌 퇴근길 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        4656.0,
+        602.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/frustrated/13.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern59_3184_2850",
+      "title": "답답이 · 코까지 답답 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        5040.0,
+        602.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/frustrated/14.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern60_3184_2850",
+      "title": "답답이 · 뚜껑과 한판 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        5424.0,
+        602.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/frustrated/15.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern61_3184_2850",
+      "title": "답답이 · 안경에 김서림 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        5808.0,
+        602.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/frustrated/16.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern13_3184_2850",
+      "title": "짜증이 · 기존 기본형 · 이미지",
+      "sourceImagePixels": [
+        900,
+        1747
+      ],
+      "crop": [
+        48.0,
+        982.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/irritated/01.png",
+      "webFile": "public/assets/collection-figma/characters/irritated/01.webp"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern14_3184_2850",
+      "title": "11 · 짜증이 · 알림 좀 꺼 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        432.0,
+        982.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/irritated/02.png",
+      "webFile": "public/assets/collection-figma/characters/irritated/02.webp"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern15_3184_2850",
+      "title": "12 · 짜증이 · 이어폰과 전쟁 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        816.0,
+        982.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/irritated/03.png",
+      "webFile": "public/assets/collection-figma/characters/irritated/03.webp"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern16_3184_2850",
+      "title": "13 · 짜증이 · 소음 차단 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        1200.0,
+        982.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/irritated/04.png",
+      "webFile": "public/assets/collection-figma/characters/irritated/04.webp"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern17_3184_2850",
+      "title": "14 · 짜증이 · 내 간식 누가 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        1584.0,
+        982.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/irritated/05.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern18_3184_2850",
+      "title": "15 · 짜증이 · 프린터 파업 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        1968.0,
+        982.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/irritated/06.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern41_3184_2850",
+      "title": "짜증이 · 포스트잇 폭주 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        2352.0,
+        982.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/irritated/07.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern62_3184_2850",
+      "title": "짜증이 · 수정의 늪 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        2736.0,
+        982.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/irritated/08.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern63_3184_2850",
+      "title": "짜증이 · 뜯는 곳만 뜯김 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        3120.0,
+        982.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/irritated/09.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern64_3184_2850",
+      "title": "짜증이 · USB 세번 뒤집기 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        3504.0,
+        982.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/irritated/10.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern65_3184_2850",
+      "title": "짜증이 · 볼펜 잉크파업 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        3888.0,
+        982.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/irritated/11.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern66_3184_2850",
+      "title": "짜증이 · 모기와 밤샘 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        4272.0,
+        982.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/irritated/12.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern67_3184_2850",
+      "title": "짜증이 · 신발 속 돌멩이 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        4656.0,
+        982.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/irritated/13.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern68_3184_2850",
+      "title": "짜증이 · 축축한 양말 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        5040.0,
+        982.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/irritated/14.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern69_3184_2850",
+      "title": "짜증이 · 테이프 끝 어디 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        5424.0,
+        982.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/irritated/15.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern70_3184_2850",
+      "title": "짜증이 · 빨대 꺾임 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        5808.0,
+        982.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/irritated/16.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern19_3184_2850",
+      "title": "좌절이 · 기존 기본형 · 이미지",
+      "sourceImagePixels": [
+        899,
+        1748
+      ],
+      "crop": [
+        48.0,
+        1362.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/discouraged/01.png",
+      "webFile": "public/assets/collection-figma/characters/discouraged/01.webp"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern20_3184_2850",
+      "title": "16 · 좌절이 · 계획 와르르 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        432.0,
+        1362.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/discouraged/02.png",
+      "webFile": "public/assets/collection-figma/characters/discouraged/02.webp"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern21_3184_2850",
+      "title": "17 · 좌절이 · 의욕 풍선 터짐 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        816.0,
+        1362.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/discouraged/03.png",
+      "webFile": "public/assets/collection-figma/characters/discouraged/03.webp"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern22_3184_2850",
+      "title": "18 · 좌절이 · 한 칸이 안 맞아 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        1200.0,
+        1362.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/discouraged/04.png",
+      "webFile": "public/assets/collection-figma/characters/discouraged/04.webp"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern23_3184_2850",
+      "title": "19 · 좌절이 · 비 오는 마음 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        1584.0,
+        1362.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/discouraged/05.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern24_3184_2850",
+      "title": "20 · 좌절이 · 다시 쌓는 중 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        1968.0,
+        1362.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/discouraged/06.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern42_3184_2850",
+      "title": "좌절이 · 거절 메일 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        2352.0,
+        1362.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/discouraged/07.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern43_3184_2850",
+      "title": "좌절이 · 오류 폭주 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        2736.0,
+        1362.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/discouraged/08.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern44_3184_2850",
+      "title": "좌절이 · 전원 이탈 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        3120.0,
+        1362.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/discouraged/09.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern45_3184_2850",
+      "title": "좌절이 · 발표 먹통 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        3504.0,
+        1362.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/discouraged/10.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern46_3184_2850",
+      "title": "좌절이 · 커피 참사 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        3888.0,
+        1362.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/discouraged/11.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern47_3184_2850",
+      "title": "좌절이 · 아이스크림 추락 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        4272.0,
+        1362.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/discouraged/12.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern48_3184_2850",
+      "title": "좌절이 · 버스 놓침 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        4656.0,
+        1362.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/discouraged/13.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern49_3184_2850",
+      "title": "좌절이 · 시든 화분 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        5040.0,
+        1362.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/discouraged/14.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern50_3184_2850",
+      "title": "좌절이 · 액정 와장창 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        5424.0,
+        1362.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/discouraged/15.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern51_3184_2850",
+      "title": "좌절이 · 눈사람 안녕 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        5808.0,
+        1362.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/discouraged/16.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern25_3184_2850",
+      "title": "분노 · 기존 기본형 · 이미지",
+      "sourceImagePixels": [
+        899,
+        1749
+      ],
+      "crop": [
+        48.0,
+        1742.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/angry/01.png",
+      "webFile": "public/assets/collection-figma/characters/angry/01.webp"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern26_3184_2850",
+      "title": "21 · 분노 · 뚜껑 발사 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        432.0,
+        1742.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/angry/02.png",
+      "webFile": "public/assets/collection-figma/characters/angry/02.webp"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern27_3184_2850",
+      "title": "22 · 분노 · 셀프 냉각 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        816.0,
+        1742.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/angry/03.png",
+      "webFile": "public/assets/collection-figma/characters/angry/03.webp"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern28_3184_2850",
+      "title": "23 · 분노 · 쿠션에 외쳐 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        1200.0,
+        1742.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/angry/04.png",
+      "webFile": "public/assets/collection-figma/characters/angry/04.webp"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern29_3184_2850",
+      "title": "24 · 분노 · 화산 직전 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1447,
+        1087
+      ],
+      "crop": [
+        1584.0,
+        1742.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/angry/05.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern30_3184_2850",
+      "title": "25 · 분노 · 참을 인 고장 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        1968.0,
+        1742.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/angry/06.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern71_3184_2850",
+      "title": "분노군 · 키보드 폭주 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        2352.0,
+        1742.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/angry/07.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern72_3184_2850",
+      "title": "분노군 · 서류 쫙 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        2736.0,
+        1742.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/angry/08.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern73_3184_2850",
+      "title": "분노군 · 눈빛 레이저 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        3120.0,
+        1742.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/angry/09.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern74_3184_2850",
+      "title": "분노군 · 스트레스볼 한계 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        3504.0,
+        1742.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/angry/10.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern75_3184_2850",
+      "title": "분노군 · 연필 뚝 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        3888.0,
+        1742.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/angry/11.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern76_3184_2850",
+      "title": "분노군 · 층간소음 한계 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        4272.0,
+        1742.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/angry/12.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern77_3184_2850",
+      "title": "분노군 · 게임패드 위기 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        4656.0,
+        1742.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/angry/13.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern78_3184_2850",
+      "title": "분노군 · 발끝 충돌 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        5040.0,
+        1742.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/angry/14.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern79_3184_2850",
+      "title": "분노군 · 토스트 숯불 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        5424.0,
+        1742.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/angry/15.png"
+    },
+    {
+      "source": "감정-캐릭터-80종-360x230-투명-규격통일 1 (1).svg",
+      "pattern": "pattern80_3184_2850",
+      "title": "분노군 · 자판기 먹통 · 투명 PNG · 이미지",
+      "sourceImagePixels": [
+        1448,
+        1086
+      ],
+      "crop": [
+        5808.0,
+        1742.0,
+        360.0,
+        230.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/characters/angry/16.png"
+    },
+    {
+      "source": "01-지침-전체16쌍-규격통일.svg",
+      "pattern": "pattern0_3144_3357",
+      "title": "",
+      "sourceImagePixels": [
+        1670,
+        941
+      ],
+      "crop": [
+        131.852,
+        160.992,
+        219.99999999999997,
+        220.00000000000003
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/exhausted/01.png",
+      "webFile": "public/assets/collection-figma/stamps-round/exhausted/01.webp"
+    },
+    {
+      "source": "01-지침-전체16쌍-규격통일.svg",
+      "pattern": "pattern1_3144_3357",
+      "title": "",
+      "sourceImagePixels": [
+        1894,
+        830
+      ],
+      "crop": [
+        398.912,
+        219.0,
+        289.796,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/exhausted/01.png",
+      "webFile": "public/assets/collection-figma/stamps-straight/exhausted/01.webp"
+    },
+    {
+      "source": "01-지침-전체16쌍-규격통일.svg",
+      "pattern": "pattern2_3144_3357",
+      "title": "",
+      "sourceImagePixels": [
+        1670,
+        941
+      ],
+      "crop": [
+        942.998,
+        160.609,
+        220.00199999999995,
+        219.99999999999997
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/exhausted/02.png",
+      "webFile": "public/assets/collection-figma/stamps-round/exhausted/02.webp"
+    },
+    {
+      "source": "01-지침-전체16쌍-규격통일.svg",
+      "pattern": "pattern3_3144_3357",
+      "title": "",
+      "sourceImagePixels": [
+        2012,
+        781
+      ],
+      "crop": [
+        1181.42,
+        219.078,
+        343.17999999999984,
+        99.99999999999997
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/exhausted/02.png",
+      "webFile": "public/assets/collection-figma/stamps-straight/exhausted/02.webp"
+    },
+    {
+      "source": "01-지침-전체16쌍-규격통일.svg",
+      "pattern": "pattern4_3144_3357",
+      "title": "",
+      "sourceImagePixels": [
+        1670,
+        941
+      ],
+      "crop": [
+        132.137,
+        460.477,
+        220.0,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/exhausted/03.png",
+      "webFile": "public/assets/collection-figma/stamps-round/exhausted/03.webp"
+    },
+    {
+      "source": "01-지침-전체16쌍-규격통일.svg",
+      "pattern": "pattern5_3144_3357",
+      "title": "",
+      "sourceImagePixels": [
+        1895,
+        830
+      ],
+      "crop": [
+        383.199,
+        519.0,
+        310.232,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/exhausted/03.png",
+      "webFile": "public/assets/collection-figma/stamps-straight/exhausted/03.webp"
+    },
+    {
+      "source": "01-지침-전체16쌍-규격통일.svg",
+      "pattern": "pattern6_3144_3357",
+      "title": "",
+      "sourceImagePixels": [
+        1671,
+        941
+      ],
+      "crop": [
+        941.994,
+        459.93,
+        219.99599999999998,
+        219.99999999999994
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/exhausted/04.png",
+      "webFile": "public/assets/collection-figma/stamps-round/exhausted/04.webp"
+    },
+    {
+      "source": "01-지침-전체16쌍-규격통일.svg",
+      "pattern": "pattern7_3144_3357",
+      "title": "",
+      "sourceImagePixels": [
+        2031,
+        774
+      ],
+      "crop": [
+        1177.99,
+        519.0,
+        347.1600000000001,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/exhausted/04.png",
+      "webFile": "public/assets/collection-figma/stamps-straight/exhausted/04.webp"
+    },
+    {
+      "source": "01-지침-전체16쌍-규격통일.svg",
+      "pattern": "pattern8_3144_3357",
+      "title": "",
+      "sourceImagePixels": [
+        1670,
+        942
+      ],
+      "crop": [
+        131.996,
+        760.625,
+        219.99999999999997,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/exhausted/05.png"
+    },
+    {
+      "source": "01-지침-전체16쌍-규격통일.svg",
+      "pattern": "pattern9_3144_3357",
+      "title": "",
+      "sourceImagePixels": [
+        2057,
+        765
+      ],
+      "crop": [
+        372.875,
+        819.078,
+        329.37199999999996,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/exhausted/05.png"
+    },
+    {
+      "source": "01-지침-전체16쌍-규격통일.svg",
+      "pattern": "pattern10_3144_3357",
+      "title": "",
+      "sourceImagePixels": [
+        1671,
+        941
+      ],
+      "crop": [
+        942.707,
+        759.438,
+        220.00300000000004,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/exhausted/06.png"
+    },
+    {
+      "source": "01-지침-전체16쌍-규격통일.svg",
+      "pattern": "pattern11_3144_3357",
+      "title": "",
+      "sourceImagePixels": [
+        2149,
+        732
+      ],
+      "crop": [
+        1190.63,
+        818.922,
+        325.3299999999999,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/exhausted/06.png"
+    },
+    {
+      "source": "01-지침-전체16쌍-규격통일.svg",
+      "pattern": "pattern12_3144_3357",
+      "title": "",
+      "sourceImagePixels": [
+        1671,
+        941
+      ],
+      "crop": [
+        131.996,
+        1060.73,
+        219.99999999999997,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/exhausted/07.png"
+    },
+    {
+      "source": "01-지침-전체16쌍-규격통일.svg",
+      "pattern": "pattern13_3144_3357",
+      "title": "",
+      "sourceImagePixels": [
+        1895,
+        830
+      ],
+      "crop": [
+        389.838,
+        1119.18,
+        309.142,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/exhausted/07.png"
+    },
+    {
+      "source": "01-지침-전체16쌍-규격통일.svg",
+      "pattern": "pattern14_3144_3357",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        941.711,
+        1060.3,
+        219.99900000000002,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/exhausted/08.png"
+    },
+    {
+      "source": "01-지침-전체16쌍-규격통일.svg",
+      "pattern": "pattern15_3144_3357",
+      "title": "",
+      "sourceImagePixels": [
+        1905,
+        825
+      ],
+      "crop": [
+        1196.49,
+        1118.92,
+        333.0999999999999,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/exhausted/08.png"
+    },
+    {
+      "source": "01-지침-전체16쌍-규격통일.svg",
+      "pattern": "pattern16_3144_3357",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        131.996,
+        1360.86,
+        219.99999999999997,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/exhausted/09.png"
+    },
+    {
+      "source": "01-지침-전체16쌍-규격통일.svg",
+      "pattern": "pattern17_3144_3357",
+      "title": "",
+      "sourceImagePixels": [
+        1977,
+        795
+      ],
+      "crop": [
+        387.25,
+        1419.19,
+        349.126,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/exhausted/09.png"
+    },
+    {
+      "source": "01-지침-전체16쌍-규격통일.svg",
+      "pattern": "pattern18_3144_3357",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        941.996,
+        1360.77,
+        220.00400000000002,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/exhausted/10.png"
+    },
+    {
+      "source": "01-지침-전체16쌍-규격통일.svg",
+      "pattern": "pattern19_3144_3357",
+      "title": "",
+      "sourceImagePixels": [
+        1914,
+        822
+      ],
+      "crop": [
+        1196.9,
+        1419.09,
+        317.40999999999985,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/exhausted/10.png"
+    },
+    {
+      "source": "01-지침-전체16쌍-규격통일.svg",
+      "pattern": "pattern20_3144_3357",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        131.996,
+        1660.74,
+        219.99999999999997,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/exhausted/11.png"
+    },
+    {
+      "source": "01-지침-전체16쌍-규격통일.svg",
+      "pattern": "pattern21_3144_3357",
+      "title": "",
+      "sourceImagePixels": [
+        1933,
+        814
+      ],
+      "crop": [
+        387.047,
+        1718.74,
+        319.822,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/exhausted/11.png"
+    },
+    {
+      "source": "01-지침-전체16쌍-규격통일.svg",
+      "pattern": "pattern22_3144_3357",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        941.557,
+        1660.86,
+        220.00299999999993,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/exhausted/12.png"
+    },
+    {
+      "source": "01-지침-전체16쌍-규격통일.svg",
+      "pattern": "pattern23_3144_3357",
+      "title": "",
+      "sourceImagePixels": [
+        1875,
+        839
+      ],
+      "crop": [
+        1198.35,
+        1719.45,
+        315.18000000000006,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/exhausted/12.png"
+    },
+    {
+      "source": "01-지침-전체16쌍-규격통일.svg",
+      "pattern": "pattern24_3144_3357",
+      "title": "",
+      "sourceImagePixels": [
+        1671,
+        941
+      ],
+      "crop": [
+        131.996,
+        1960.86,
+        219.99999999999997,
+        220.00000000000023
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/exhausted/13.png"
+    },
+    {
+      "source": "01-지침-전체16쌍-규격통일.svg",
+      "pattern": "pattern25_3144_3357",
+      "title": "",
+      "sourceImagePixels": [
+        1821,
+        864
+      ],
+      "crop": [
+        387.502,
+        2018.91,
+        322.29400000000004,
+        99.99999999999977
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/exhausted/13.png"
+    },
+    {
+      "source": "01-지침-전체16쌍-규격통일.svg",
+      "pattern": "pattern26_3144_3357",
+      "title": "",
+      "sourceImagePixels": [
+        1671,
+        941
+      ],
+      "crop": [
+        941.861,
+        1961.13,
+        219.9989999999999,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/exhausted/14.png"
+    },
+    {
+      "source": "01-지침-전체16쌍-규격통일.svg",
+      "pattern": "pattern27_3144_3357",
+      "title": "",
+      "sourceImagePixels": [
+        2012,
+        782
+      ],
+      "crop": [
+        1198.71,
+        2019.82,
+        338.44000000000005,
+        100.00000000000023
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/exhausted/14.png"
+    },
+    {
+      "source": "01-지침-전체16쌍-규격통일.svg",
+      "pattern": "pattern28_3144_3357",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        131.627,
+        2260.63,
+        220.0,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/exhausted/15.png"
+    },
+    {
+      "source": "01-지침-전체16쌍-규격통일.svg",
+      "pattern": "pattern29_3144_3357",
+      "title": "",
+      "sourceImagePixels": [
+        1916,
+        821
+      ],
+      "crop": [
+        386.506,
+        2319.01,
+        327.2370000000001,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/exhausted/15.png"
+    },
+    {
+      "source": "01-지침-전체16쌍-규격통일.svg",
+      "pattern": "pattern30_3144_3357",
+      "title": "",
+      "sourceImagePixels": [
+        1671,
+        941
+      ],
+      "crop": [
+        941.85,
+        2260.72,
+        219.9999999999999,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/exhausted/16.png"
+    },
+    {
+      "source": "01-지침-전체16쌍-규격통일.svg",
+      "pattern": "pattern31_3144_3357",
+      "title": "",
+      "sourceImagePixels": [
+        1870,
+        841
+      ],
+      "crop": [
+        1201.35,
+        2320.43,
+        305.71000000000004,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/exhausted/16.png"
+    },
+    {
+      "source": "02-답답-전체16쌍-규격통일.svg",
+      "pattern": "pattern0_3144_3459",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        142.797,
+        159.469,
+        220.00000000000003,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/frustrated/01.png",
+      "webFile": "public/assets/collection-figma/stamps-round/frustrated/01.webp"
+    },
+    {
+      "source": "02-답답-전체16쌍-규격통일.svg",
+      "pattern": "pattern1_3144_3459",
+      "title": "",
+      "sourceImagePixels": [
+        2106,
+        747
+      ],
+      "crop": [
+        390.557,
+        218.992,
+        322.092,
+        100.00000000000003
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/frustrated/01.png",
+      "webFile": "public/assets/collection-figma/stamps-straight/frustrated/01.webp"
+    },
+    {
+      "source": "02-답답-전체16쌍-규격통일.svg",
+      "pattern": "pattern2_3144_3459",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        953.029,
+        159.789,
+        220.00099999999998,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/frustrated/02.png",
+      "webFile": "public/assets/collection-figma/stamps-round/frustrated/02.webp"
+    },
+    {
+      "source": "02-답답-전체16쌍-규격통일.svg",
+      "pattern": "pattern3_3144_3459",
+      "title": "",
+      "sourceImagePixels": [
+        2106,
+        747
+      ],
+      "crop": [
+        1189.03,
+        219.078,
+        351.55999999999995,
+        99.99999999999997
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/frustrated/02.png",
+      "webFile": "public/assets/collection-figma/stamps-straight/frustrated/02.webp"
+    },
+    {
+      "source": "02-답답-전체16쌍-규격통일.svg",
+      "pattern": "pattern4_3144_3459",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        940
+      ],
+      "crop": [
+        142.793,
+        459.961,
+        220.0,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/frustrated/03.png",
+      "webFile": "public/assets/collection-figma/stamps-round/frustrated/03.webp"
+    },
+    {
+      "source": "02-답답-전체16쌍-규격통일.svg",
+      "pattern": "pattern5_3144_3459",
+      "title": "",
+      "sourceImagePixels": [
+        2123,
+        741
+      ],
+      "crop": [
+        380.061,
+        519.078,
+        346.061,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/frustrated/03.png",
+      "webFile": "public/assets/collection-figma/stamps-straight/frustrated/03.webp"
+    },
+    {
+      "source": "02-답답-전체16쌍-규격통일.svg",
+      "pattern": "pattern6_3144_3459",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        953.029,
+        458.375,
+        220.00099999999998,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/frustrated/04.png",
+      "webFile": "public/assets/collection-figma/stamps-round/frustrated/04.webp"
+    },
+    {
+      "source": "02-답답-전체16쌍-규격통일.svg",
+      "pattern": "pattern7_3144_3459",
+      "title": "",
+      "sourceImagePixels": [
+        1939,
+        811
+      ],
+      "crop": [
+        1211.96,
+        518.07,
+        301.71000000000004,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/frustrated/04.png",
+      "webFile": "public/assets/collection-figma/stamps-straight/frustrated/04.webp"
+    },
+    {
+      "source": "02-답답-전체16쌍-규격통일.svg",
+      "pattern": "pattern8_3144_3459",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        940
+      ],
+      "crop": [
+        143.027,
+        758.32,
+        220.0,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/frustrated/05.png"
+    },
+    {
+      "source": "02-답답-전체16쌍-규격통일.svg",
+      "pattern": "pattern9_3144_3459",
+      "title": "",
+      "sourceImagePixels": [
+        1939,
+        811
+      ],
+      "crop": [
+        391.492,
+        818.984,
+        319.49899999999997,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/frustrated/05.png"
+    },
+    {
+      "source": "02-답답-전체16쌍-규격통일.svg",
+      "pattern": "pattern10_3144_3459",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        952.914,
+        759.258,
+        219.9960000000001,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/frustrated/06.png"
+    },
+    {
+      "source": "02-답답-전체16쌍-규격통일.svg",
+      "pattern": "pattern11_3144_3459",
+      "title": "",
+      "sourceImagePixels": [
+        2083,
+        755
+      ],
+      "crop": [
+        1200.07,
+        821.172,
+        307.69000000000005,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/frustrated/06.png"
+    },
+    {
+      "source": "02-답답-전체16쌍-규격통일.svg",
+      "pattern": "pattern12_3144_3459",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        940
+      ],
+      "crop": [
+        142.912,
+        1059.24,
+        219.99999999999997,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/frustrated/07.png"
+    },
+    {
+      "source": "02-답답-전체16쌍-규격통일.svg",
+      "pattern": "pattern13_3144_3459",
+      "title": "",
+      "sourceImagePixels": [
+        1940,
+        811
+      ],
+      "crop": [
+        397.525,
+        1119.0,
+        317.486,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/frustrated/07.png"
+    },
+    {
+      "source": "02-답답-전체16쌍-규격통일.svg",
+      "pattern": "pattern14_3144_3459",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        952.916,
+        1059.59,
+        220.00400000000002,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/frustrated/08.png"
+    },
+    {
+      "source": "02-답답-전체16쌍-규격통일.svg",
+      "pattern": "pattern15_3144_3459",
+      "title": "",
+      "sourceImagePixels": [
+        2079,
+        756
+      ],
+      "crop": [
+        1209.19,
+        1119.5,
+        321.8499999999999,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/frustrated/08.png"
+    },
+    {
+      "source": "02-답답-전체16쌍-규격통일.svg",
+      "pattern": "pattern16_3144_3459",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        143.066,
+        1359.63,
+        219.99999999999997,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/frustrated/09.png"
+    },
+    {
+      "source": "02-답답-전체16쌍-규격통일.svg",
+      "pattern": "pattern17_3144_3459",
+      "title": "",
+      "sourceImagePixels": [
+        1875,
+        839
+      ],
+      "crop": [
+        397.107,
+        1419.01,
+        358.5489999999999,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/frustrated/09.png"
+    },
+    {
+      "source": "02-답답-전체16쌍-규격통일.svg",
+      "pattern": "pattern18_3144_3459",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        952.912,
+        1360.0,
+        219.99800000000005,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/frustrated/10.png"
+    },
+    {
+      "source": "02-답답-전체16쌍-규격통일.svg",
+      "pattern": "pattern19_3144_3459",
+      "title": "",
+      "sourceImagePixels": [
+        1850,
+        850
+      ],
+      "crop": [
+        1209.31,
+        1419.0,
+        318.44000000000005,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/frustrated/10.png"
+    },
+    {
+      "source": "02-답답-전체16쌍-규격통일.svg",
+      "pattern": "pattern20_3144_3459",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        143.041,
+        1660.09,
+        220.0,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/frustrated/11.png"
+    },
+    {
+      "source": "02-답답-전체16쌍-규격통일.svg",
+      "pattern": "pattern21_3144_3459",
+      "title": "",
+      "sourceImagePixels": [
+        1964,
+        801
+      ],
+      "crop": [
+        397.547,
+        1719.09,
+        320.856,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/frustrated/11.png"
+    },
+    {
+      "source": "02-답답-전체16쌍-규격통일.svg",
+      "pattern": "pattern22_3144_3459",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        952.914,
+        1660.31,
+        219.9960000000001,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/frustrated/12.png"
+    },
+    {
+      "source": "02-답답-전체16쌍-규격통일.svg",
+      "pattern": "pattern23_3144_3459",
+      "title": "",
+      "sourceImagePixels": [
+        1933,
+        813
+      ],
+      "crop": [
+        1212.22,
+        1720.05,
+        319.8599999999999,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/frustrated/12.png"
+    },
+    {
+      "source": "02-답답-전체16쌍-규격통일.svg",
+      "pattern": "pattern24_3144_3459",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        142.914,
+        1959.79,
+        220.0,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/frustrated/13.png"
+    },
+    {
+      "source": "02-답답-전체16쌍-규격통일.svg",
+      "pattern": "pattern25_3144_3459",
+      "title": "",
+      "sourceImagePixels": [
+        2029,
+        775
+      ],
+      "crop": [
+        397.355,
+        2019.08,
+        319.48799999999994,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/frustrated/13.png"
+    },
+    {
+      "source": "02-답답-전체16쌍-규격통일.svg",
+      "pattern": "pattern26_3144_3459",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        953.037,
+        1958.98,
+        220.00299999999993,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/frustrated/14.png"
+    },
+    {
+      "source": "02-답답-전체16쌍-규격통일.svg",
+      "pattern": "pattern27_3144_3459",
+      "title": "",
+      "sourceImagePixels": [
+        2134,
+        737
+      ],
+      "crop": [
+        1207.04,
+        2019.55,
+        372.70000000000005,
+        100.00000000000023
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/frustrated/14.png"
+    },
+    {
+      "source": "02-답답-전체16쌍-규격통일.svg",
+      "pattern": "pattern28_3144_3459",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        143.045,
+        2259.54,
+        220.00000000000003,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/frustrated/15.png"
+    },
+    {
+      "source": "02-답답-전체16쌍-규격통일.svg",
+      "pattern": "pattern29_3144_3459",
+      "title": "",
+      "sourceImagePixels": [
+        2007,
+        783
+      ],
+      "crop": [
+        402.932,
+        2320.77,
+        313.43499999999995,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/frustrated/15.png"
+    },
+    {
+      "source": "02-답답-전체16쌍-규격통일.svg",
+      "pattern": "pattern30_3144_3459",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        952.916,
+        2259.91,
+        220.00400000000002,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/frustrated/16.png"
+    },
+    {
+      "source": "02-답답-전체16쌍-규격통일.svg",
+      "pattern": "pattern31_3144_3459",
+      "title": "",
+      "sourceImagePixels": [
+        2089,
+        753
+      ],
+      "crop": [
+        1211.26,
+        2319.31,
+        402.46000000000004,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/frustrated/16.png"
+    },
+    {
+      "source": "03-짜증-전체16쌍-규격통일.svg",
+      "pattern": "pattern0_3144_3561",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        122.961,
+        160.477,
+        220.0,
+        219.99999999999997
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/irritated/01.png",
+      "webFile": "public/assets/collection-figma/stamps-round/irritated/01.webp"
+    },
+    {
+      "source": "03-짜증-전체16쌍-규격통일.svg",
+      "pattern": "pattern1_3144_3561",
+      "title": "",
+      "sourceImagePixels": [
+        2007,
+        783
+      ],
+      "crop": [
+        366.967,
+        219.0,
+        329.371,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/irritated/01.png",
+      "webFile": "public/assets/collection-figma/stamps-straight/irritated/01.webp"
+    },
+    {
+      "source": "03-짜증-전체16쌍-규격통일.svg",
+      "pattern": "pattern2_3144_3561",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        933.1,
+        160.359,
+        219.9999999999999,
+        219.99999999999997
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/irritated/02.png",
+      "webFile": "public/assets/collection-figma/stamps-round/irritated/02.webp"
+    },
+    {
+      "source": "03-짜증-전체16쌍-규격통일.svg",
+      "pattern": "pattern3_3144_3561",
+      "title": "",
+      "sourceImagePixels": [
+        2046,
+        768
+      ],
+      "crop": [
+        1169.1,
+        218.992,
+        359.8900000000001,
+        100.00000000000003
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/irritated/02.png",
+      "webFile": "public/assets/collection-figma/stamps-straight/irritated/02.webp"
+    },
+    {
+      "source": "03-짜증-전체16쌍-규격통일.svg",
+      "pattern": "pattern4_3144_3561",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        123.096,
+        459.328,
+        220.0,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/irritated/03.png",
+      "webFile": "public/assets/collection-figma/stamps-round/irritated/03.webp"
+    },
+    {
+      "source": "03-짜증-전체16쌍-규격통일.svg",
+      "pattern": "pattern5_3144_3561",
+      "title": "",
+      "sourceImagePixels": [
+        1962,
+        801
+      ],
+      "crop": [
+        372.32,
+        518.836,
+        318.982,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/irritated/03.png",
+      "webFile": "public/assets/collection-figma/stamps-straight/irritated/03.webp"
+    },
+    {
+      "source": "03-짜증-전체16쌍-규격통일.svg",
+      "pattern": "pattern6_3144_3561",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        932.82,
+        460.586,
+        219.9999999999999,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/irritated/04.png",
+      "webFile": "public/assets/collection-figma/stamps-round/irritated/04.webp"
+    },
+    {
+      "source": "03-짜증-전체16쌍-규격통일.svg",
+      "pattern": "pattern7_3144_3561",
+      "title": "",
+      "sourceImagePixels": [
+        2042,
+        770
+      ],
+      "crop": [
+        1169.37,
+        518.922,
+        348.3100000000002,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/irritated/04.png",
+      "webFile": "public/assets/collection-figma/stamps-straight/irritated/04.webp"
+    },
+    {
+      "source": "03-짜증-전체16쌍-규격통일.svg",
+      "pattern": "pattern8_3144_3561",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        123.373,
+        760.586,
+        220.0,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/irritated/05.png"
+    },
+    {
+      "source": "03-짜증-전체16쌍-규격통일.svg",
+      "pattern": "pattern9_3144_3561",
+      "title": "",
+      "sourceImagePixels": [
+        2087,
+        753
+      ],
+      "crop": [
+        359.373,
+        819.0,
+        359.753,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/irritated/05.png"
+    },
+    {
+      "source": "03-짜증-전체16쌍-규격통일.svg",
+      "pattern": "pattern10_3144_3561",
+      "title": "",
+      "sourceImagePixels": [
+        1670,
+        941
+      ],
+      "crop": [
+        932.959,
+        759.953,
+        220.0010000000001,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/irritated/06.png"
+    },
+    {
+      "source": "03-짜증-전체16쌍-규격통일.svg",
+      "pattern": "pattern11_3144_3561",
+      "title": "",
+      "sourceImagePixels": [
+        2159,
+        728
+      ],
+      "crop": [
+        1168.96,
+        819.008,
+        364.94000000000005,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/irritated/06.png"
+    },
+    {
+      "source": "03-짜증-전체16쌍-규격통일.svg",
+      "pattern": "pattern12_3144_3561",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        123.1,
+        1060.58,
+        220.00000000000003,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/irritated/07.png"
+    },
+    {
+      "source": "03-짜증-전체16쌍-규격통일.svg",
+      "pattern": "pattern13_3144_3561",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        379.83,
+        1119.59,
+        307.585,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/irritated/07.png"
+    },
+    {
+      "source": "03-짜증-전체16쌍-규격통일.svg",
+      "pattern": "pattern14_3144_3561",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        932.541,
+        1061.0,
+        219.9989999999999,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/irritated/08.png"
+    },
+    {
+      "source": "03-짜증-전체16쌍-규격통일.svg",
+      "pattern": "pattern15_3144_3561",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        1187.94,
+        1119.0,
+        315.74,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/irritated/08.png"
+    },
+    {
+      "source": "03-짜증-전체16쌍-규격통일.svg",
+      "pattern": "pattern16_3144_3561",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        122.838,
+        1360.75,
+        220.00000000000003,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/irritated/09.png"
+    },
+    {
+      "source": "03-짜증-전체16쌍-규격통일.svg",
+      "pattern": "pattern17_3144_3561",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        377.645,
+        1419.09,
+        315.134,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/irritated/09.png"
+    },
+    {
+      "source": "03-짜증-전체16쌍-규격통일.svg",
+      "pattern": "pattern18_3144_3561",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        932.963,
+        1360.6,
+        219.99700000000007,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/irritated/10.png"
+    },
+    {
+      "source": "03-짜증-전체16쌍-규격통일.svg",
+      "pattern": "pattern19_3144_3561",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        1188.49,
+        1419.1,
+        313.8499999999999,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/irritated/10.png"
+    },
+    {
+      "source": "03-짜증-전체16쌍-규격통일.svg",
+      "pattern": "pattern20_3144_3561",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        122.68,
+        1660.71,
+        220.0,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/irritated/11.png"
+    },
+    {
+      "source": "03-짜증-전체16쌍-규격통일.svg",
+      "pattern": "pattern21_3144_3561",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        378.16,
+        1718.99,
+        314.94,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/irritated/11.png"
+    },
+    {
+      "source": "03-짜증-전체16쌍-규격통일.svg",
+      "pattern": "pattern22_3144_3561",
+      "title": "",
+      "sourceImagePixels": [
+        1670,
+        941
+      ],
+      "crop": [
+        932.959,
+        1660.47,
+        220.0010000000001,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/irritated/12.png"
+    },
+    {
+      "source": "03-짜증-전체16쌍-규격통일.svg",
+      "pattern": "pattern23_3144_3561",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        1187.73,
+        1719.01,
+        314.1700000000001,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/irritated/12.png"
+    },
+    {
+      "source": "03-짜증-전체16쌍-규격통일.svg",
+      "pattern": "pattern24_3144_3561",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        122.84,
+        1960.39,
+        219.99999999999997,
+        219.99999999999977
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/irritated/13.png"
+    },
+    {
+      "source": "03-짜증-전체16쌍-규격통일.svg",
+      "pattern": "pattern25_3144_3561",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        377.967,
+        2019.2,
+        314.68899999999996,
+        99.99999999999977
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/irritated/13.png"
+    },
+    {
+      "source": "03-짜증-전체16쌍-규격통일.svg",
+      "pattern": "pattern26_3144_3561",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        933.1,
+        1960.99,
+        219.9999999999999,
+        219.99999999999977
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/irritated/14.png"
+    },
+    {
+      "source": "03-짜증-전체16쌍-규격통일.svg",
+      "pattern": "pattern27_3144_3561",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        1188.07,
+        2019.48,
+        314.99,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/irritated/14.png"
+    },
+    {
+      "source": "03-짜증-전체16쌍-규격통일.svg",
+      "pattern": "pattern28_3144_3561",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        122.82,
+        2260.71,
+        220.0,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/irritated/15.png"
+    },
+    {
+      "source": "03-짜증-전체16쌍-규격통일.svg",
+      "pattern": "pattern29_3144_3561",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        377.174,
+        2319.0,
+        310.75200000000007,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/irritated/15.png"
+    },
+    {
+      "source": "03-짜증-전체16쌍-규격통일.svg",
+      "pattern": "pattern30_3144_3561",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        932.125,
+        2260.87,
+        219.9949999999999,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/irritated/16.png"
+    },
+    {
+      "source": "03-짜증-전체16쌍-규격통일.svg",
+      "pattern": "pattern31_3144_3561",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        1187.39,
+        2318.91,
+        316.6999999999998,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/irritated/16.png"
+    },
+    {
+      "source": "04-좌절-전체16쌍-규격통일.svg",
+      "pattern": "pattern0_3144_3663",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        133.48,
+        160.633,
+        220.00000000000003,
+        219.99999999999997
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/discouraged/01.png",
+      "webFile": "public/assets/collection-figma/stamps-round/discouraged/01.webp"
+    },
+    {
+      "source": "04-좌절-전체16쌍-규격통일.svg",
+      "pattern": "pattern1_3144_3663",
+      "title": "",
+      "sourceImagePixels": [
+        2092,
+        751
+      ],
+      "crop": [
+        369.48,
+        219.133,
+        370.40999999999997,
+        99.99999999999997
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/discouraged/01.png",
+      "webFile": "public/assets/collection-figma/stamps-straight/discouraged/01.webp"
+    },
+    {
+      "source": "04-좌절-전체16쌍-규격통일.svg",
+      "pattern": "pattern2_3144_3663",
+      "title": "",
+      "sourceImagePixels": [
+        1671,
+        941
+      ],
+      "crop": [
+        943.344,
+        160.719,
+        219.99599999999987,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/discouraged/02.png",
+      "webFile": "public/assets/collection-figma/stamps-round/discouraged/02.webp"
+    },
+    {
+      "source": "04-좌절-전체16쌍-규격통일.svg",
+      "pattern": "pattern3_3144_3663",
+      "title": "",
+      "sourceImagePixels": [
+        2062,
+        763
+      ],
+      "crop": [
+        1179.34,
+        219.164,
+        398.76,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/discouraged/02.png",
+      "webFile": "public/assets/collection-figma/stamps-straight/discouraged/02.webp"
+    },
+    {
+      "source": "04-좌절-전체16쌍-규격통일.svg",
+      "pattern": "pattern4_3144_3663",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        133.344,
+        457.922,
+        220.0,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/discouraged/03.png",
+      "webFile": "public/assets/collection-figma/stamps-round/discouraged/03.webp"
+    },
+    {
+      "source": "04-좌절-전체16쌍-규격통일.svg",
+      "pattern": "pattern5_3144_3663",
+      "title": "",
+      "sourceImagePixels": [
+        2173,
+        724
+      ],
+      "crop": [
+        369.734,
+        519.141,
+        366.608,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/discouraged/03.png",
+      "webFile": "public/assets/collection-figma/stamps-straight/discouraged/03.webp"
+    },
+    {
+      "source": "04-좌절-전체16쌍-규격통일.svg",
+      "pattern": "pattern6_3144_3663",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        943.469,
+        460.609,
+        220.00099999999998,
+        220.00000000000006
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/discouraged/04.png",
+      "webFile": "public/assets/collection-figma/stamps-round/discouraged/04.webp"
+    },
+    {
+      "source": "04-좌절-전체16쌍-규격통일.svg",
+      "pattern": "pattern7_3144_3663",
+      "title": "",
+      "sourceImagePixels": [
+        2032,
+        774
+      ],
+      "crop": [
+        1184.06,
+        518.984,
+        334.45000000000005,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/discouraged/04.png",
+      "webFile": "public/assets/collection-figma/stamps-straight/discouraged/04.webp"
+    },
+    {
+      "source": "04-좌절-전체16쌍-규격통일.svg",
+      "pattern": "pattern8_3144_3663",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        133.344,
+        759.305,
+        220.0,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/discouraged/05.png"
+    },
+    {
+      "source": "04-좌절-전체16쌍-규격통일.svg",
+      "pattern": "pattern9_3144_3663",
+      "title": "",
+      "sourceImagePixels": [
+        2033,
+        773
+      ],
+      "crop": [
+        369.344,
+        818.914,
+        351.27299999999997,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/discouraged/05.png"
+    },
+    {
+      "source": "04-좌절-전체16쌍-규격통일.svg",
+      "pattern": "pattern10_3144_3663",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        943.213,
+        758.5,
+        219.99700000000007,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/discouraged/06.png"
+    },
+    {
+      "source": "04-좌절-전체16쌍-규격통일.svg",
+      "pattern": "pattern11_3144_3663",
+      "title": "",
+      "sourceImagePixels": [
+        2078,
+        757
+      ],
+      "crop": [
+        1194.18,
+        819.07,
+        309.45000000000005,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/discouraged/06.png"
+    },
+    {
+      "source": "04-좌절-전체16쌍-규격통일.svg",
+      "pattern": "pattern12_3144_3663",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        133.346,
+        1061.01,
+        220.0,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/discouraged/07.png"
+    },
+    {
+      "source": "04-좌절-전체16쌍-규격통일.svg",
+      "pattern": "pattern13_3144_3663",
+      "title": "",
+      "sourceImagePixels": [
+        1885,
+        834
+      ],
+      "crop": [
+        391.072,
+        1119.51,
+        357.428,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/discouraged/07.png"
+    },
+    {
+      "source": "04-좌절-전체16쌍-규격통일.svg",
+      "pattern": "pattern14_3144_3663",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        943.479,
+        1061.01,
+        220.00099999999998,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/discouraged/08.png"
+    },
+    {
+      "source": "04-좌절-전체16쌍-규격통일.svg",
+      "pattern": "pattern15_3144_3663",
+      "title": "",
+      "sourceImagePixels": [
+        1852,
+        849
+      ],
+      "crop": [
+        1198.22,
+        1119.09,
+        319.93000000000006,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/discouraged/08.png"
+    },
+    {
+      "source": "04-좌절-전체16쌍-규격통일.svg",
+      "pattern": "pattern16_3144_3663",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        133.051,
+        1360.84,
+        220.0,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/discouraged/09.png"
+    },
+    {
+      "source": "04-좌절-전체16쌍-규격통일.svg",
+      "pattern": "pattern17_3144_3663",
+      "title": "",
+      "sourceImagePixels": [
+        1874,
+        839
+      ],
+      "crop": [
+        390.711,
+        1419.2,
+        334.81600000000003,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/discouraged/09.png"
+    },
+    {
+      "source": "04-좌절-전체16쌍-규격통일.svg",
+      "pattern": "pattern18_3144_3663",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        942.904,
+        1361.29,
+        219.9960000000001,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/discouraged/10.png"
+    },
+    {
+      "source": "04-좌절-전체16쌍-규격통일.svg",
+      "pattern": "pattern19_3144_3663",
+      "title": "",
+      "sourceImagePixels": [
+        1987,
+        791
+      ],
+      "crop": [
+        1198.01,
+        1418.82,
+        344.19000000000005,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/discouraged/10.png"
+    },
+    {
+      "source": "04-좌절-전체16쌍-규격통일.svg",
+      "pattern": "pattern20_3144_3663",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        133.053,
+        1661.29,
+        220.0,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/discouraged/11.png"
+    },
+    {
+      "source": "04-좌절-전체16쌍-규격통일.svg",
+      "pattern": "pattern21_3144_3663",
+      "title": "",
+      "sourceImagePixels": [
+        2146,
+        733
+      ],
+      "crop": [
+        397.248,
+        1721.48,
+        356.26000000000005,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/discouraged/11.png"
+    },
+    {
+      "source": "04-좌절-전체16쌍-규격통일.svg",
+      "pattern": "pattern22_3144_3663",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        942.906,
+        1661.15,
+        220.00400000000013,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/discouraged/12.png"
+    },
+    {
+      "source": "04-좌절-전체16쌍-규격통일.svg",
+      "pattern": "pattern23_3144_3663",
+      "title": "",
+      "sourceImagePixels": [
+        1981,
+        793
+      ],
+      "crop": [
+        1199.16,
+        1718.71,
+        360.04999999999995,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/discouraged/12.png"
+    },
+    {
+      "source": "04-좌절-전체16쌍-규격통일.svg",
+      "pattern": "pattern24_3144_3663",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        133.346,
+        1960.87,
+        220.0,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/discouraged/13.png"
+    },
+    {
+      "source": "04-좌절-전체16쌍-규격통일.svg",
+      "pattern": "pattern25_3144_3663",
+      "title": "",
+      "sourceImagePixels": [
+        2022,
+        778
+      ],
+      "crop": [
+        388.012,
+        2019.0,
+        324.19800000000004,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/discouraged/13.png"
+    },
+    {
+      "source": "04-좌절-전체16쌍-규격통일.svg",
+      "pattern": "pattern26_3144_3663",
+      "title": "",
+      "sourceImagePixels": [
+        1671,
+        941
+      ],
+      "crop": [
+        943.342,
+        1960.6,
+        219.99799999999993,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/discouraged/14.png"
+    },
+    {
+      "source": "04-좌절-전체16쌍-규격통일.svg",
+      "pattern": "pattern27_3144_3663",
+      "title": "",
+      "sourceImagePixels": [
+        1998,
+        787
+      ],
+      "crop": [
+        1197.74,
+        2019.09,
+        337.56999999999994,
+        100.00000000000023
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/discouraged/14.png"
+    },
+    {
+      "source": "04-좌절-전체16쌍-규격통일.svg",
+      "pattern": "pattern28_3144_3663",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        132.904,
+        2261.0,
+        220.0,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/discouraged/15.png"
+    },
+    {
+      "source": "04-좌절-전체16쌍-규격통일.svg",
+      "pattern": "pattern29_3144_3663",
+      "title": "",
+      "sourceImagePixels": [
+        1933,
+        813
+      ],
+      "crop": [
+        388.748,
+        2319.0,
+        338.60100000000006,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/discouraged/15.png"
+    },
+    {
+      "source": "04-좌절-전체16쌍-규격통일.svg",
+      "pattern": "pattern30_3144_3663",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        943.203,
+        2260.58,
+        219.99700000000007,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/discouraged/16.png"
+    },
+    {
+      "source": "04-좌절-전체16쌍-규격통일.svg",
+      "pattern": "pattern31_3144_3663",
+      "title": "",
+      "sourceImagePixels": [
+        1997,
+        787
+      ],
+      "crop": [
+        1198.2,
+        2319.18,
+        322.46000000000004,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/discouraged/16.png"
+    },
+    {
+      "source": "05-분노-전체16쌍-규격통일.svg",
+      "pattern": "pattern0_3144_3765",
+      "title": "",
+      "sourceImagePixels": [
+        1671,
+        941
+      ],
+      "crop": [
+        105.557,
+        159.859,
+        220.0,
+        219.99999999999997
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/angry/01.png",
+      "webFile": "public/assets/collection-figma/stamps-round/angry/01.webp"
+    },
+    {
+      "source": "05-분노-전체16쌍-규격통일.svg",
+      "pattern": "pattern1_3144_3765",
+      "title": "",
+      "sourceImagePixels": [
+        1942,
+        809
+      ],
+      "crop": [
+        346.709,
+        221.75,
+        327.27500000000003,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/angry/01.png",
+      "webFile": "public/assets/collection-figma/stamps-straight/angry/01.webp"
+    },
+    {
+      "source": "05-분노-전체16쌍-규격통일.svg",
+      "pattern": "pattern2_3144_3765",
+      "title": "",
+      "sourceImagePixels": [
+        1670,
+        941
+      ],
+      "crop": [
+        914.391,
+        161.0,
+        219.99900000000014,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/angry/02.png",
+      "webFile": "public/assets/collection-figma/stamps-round/angry/02.webp"
+    },
+    {
+      "source": "05-분노-전체16쌍-규격통일.svg",
+      "pattern": "pattern3_3144_3765",
+      "title": "",
+      "sourceImagePixels": [
+        2067,
+        761
+      ],
+      "crop": [
+        1162.38,
+        219.0,
+        323.8399999999999,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/angry/02.png",
+      "webFile": "public/assets/collection-figma/stamps-straight/angry/02.webp"
+    },
+    {
+      "source": "05-분노-전체16쌍-규격통일.svg",
+      "pattern": "pattern4_3144_3765",
+      "title": "",
+      "sourceImagePixels": [
+        1670,
+        941
+      ],
+      "crop": [
+        105.412,
+        461.109,
+        219.99999999999997,
+        220.00000000000006
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/angry/03.png",
+      "webFile": "public/assets/collection-figma/stamps-round/angry/03.webp"
+    },
+    {
+      "source": "05-분노-전체16쌍-규격통일.svg",
+      "pattern": "pattern5_3144_3765",
+      "title": "",
+      "sourceImagePixels": [
+        2027,
+        776
+      ],
+      "crop": [
+        363.033,
+        516.625,
+        302.557,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/angry/03.png",
+      "webFile": "public/assets/collection-figma/stamps-straight/angry/03.webp"
+    },
+    {
+      "source": "05-분노-전체16쌍-규격통일.svg",
+      "pattern": "pattern6_3144_3765",
+      "title": "",
+      "sourceImagePixels": [
+        1671,
+        941
+      ],
+      "crop": [
+        915.539,
+        459.961,
+        220.00099999999998,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/angry/04.png",
+      "webFile": "public/assets/collection-figma/stamps-round/angry/04.webp"
+    },
+    {
+      "source": "05-분노-전체16쌍-규격통일.svg",
+      "pattern": "pattern7_3144_3765",
+      "title": "",
+      "sourceImagePixels": [
+        2179,
+        721
+      ],
+      "crop": [
+        1151.54,
+        519.0,
+        346.3800000000001,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/angry/04.png",
+      "webFile": "public/assets/collection-figma/stamps-straight/angry/04.webp"
+    },
+    {
+      "source": "05-분노-전체16쌍-규격통일.svg",
+      "pattern": "pattern8_3144_3765",
+      "title": "",
+      "sourceImagePixels": [
+        1671,
+        941
+      ],
+      "crop": [
+        106.162,
+        760.008,
+        219.99999999999997,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/angry/05.png"
+    },
+    {
+      "source": "05-분노-전체16쌍-규격통일.svg",
+      "pattern": "pattern9_3144_3765",
+      "title": "",
+      "sourceImagePixels": [
+        2046,
+        769
+      ],
+      "crop": [
+        348.48,
+        818.992,
+        332.37799999999993,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/angry/05.png"
+    },
+    {
+      "source": "05-분노-전체16쌍-규격통일.svg",
+      "pattern": "pattern10_3144_3765",
+      "title": "",
+      "sourceImagePixels": [
+        1670,
+        941
+      ],
+      "crop": [
+        915.291,
+        759.594,
+        219.9989999999999,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/angry/06.png"
+    },
+    {
+      "source": "05-분노-전체16쌍-규격통일.svg",
+      "pattern": "pattern11_3144_3765",
+      "title": "",
+      "sourceImagePixels": [
+        1949,
+        807
+      ],
+      "crop": [
+        1151.29,
+        820.695,
+        360.74,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/angry/06.png"
+    },
+    {
+      "source": "05-분노-전체16쌍-규격통일.svg",
+      "pattern": "pattern12_3144_3765",
+      "title": "",
+      "sourceImagePixels": [
+        1671,
+        941
+      ],
+      "crop": [
+        105.027,
+        1061.12,
+        220.0,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/angry/07.png"
+    },
+    {
+      "source": "05-분노-전체16쌍-규격통일.svg",
+      "pattern": "pattern13_3144_3765",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        362.832,
+        1118.99,
+        306.371,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/angry/07.png"
+    },
+    {
+      "source": "05-분노-전체16쌍-규격통일.svg",
+      "pattern": "pattern14_3144_3765",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        915.42,
+        1060.77,
+        220.0000000000001,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/angry/08.png"
+    },
+    {
+      "source": "05-분노-전체16쌍-규격통일.svg",
+      "pattern": "pattern15_3144_3765",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        1170.94,
+        1119.19,
+        317.03999999999996,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/angry/08.png"
+    },
+    {
+      "source": "05-분노-전체16쌍-규격통일.svg",
+      "pattern": "pattern16_3144_3765",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        104.701,
+        1360.99,
+        220.00000000000003,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/angry/09.png"
+    },
+    {
+      "source": "05-분노-전체16쌍-규격통일.svg",
+      "pattern": "pattern17_3144_3765",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        360.012,
+        1419.09,
+        313.10100000000006,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/angry/09.png"
+    },
+    {
+      "source": "05-분노-전체16쌍-규격통일.svg",
+      "pattern": "pattern18_3144_3765",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        914.539,
+        1361.28,
+        220.00099999999998,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/angry/10.png"
+    },
+    {
+      "source": "05-분노-전체16쌍-규격통일.svg",
+      "pattern": "pattern19_3144_3765",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        1170.08,
+        1419.0,
+        316.46000000000004,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/angry/10.png"
+    },
+    {
+      "source": "05-분노-전체16쌍-규격통일.svg",
+      "pattern": "pattern20_3144_3765",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        104.896,
+        1660.98,
+        220.0,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/angry/11.png"
+    },
+    {
+      "source": "05-분노-전체16쌍-규격통일.svg",
+      "pattern": "pattern21_3144_3765",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        365.246,
+        1720.64,
+        295.571,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/angry/11.png"
+    },
+    {
+      "source": "05-분노-전체16쌍-규격통일.svg",
+      "pattern": "pattern22_3144_3765",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        914.258,
+        1661.0,
+        220.00199999999995,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/angry/12.png"
+    },
+    {
+      "source": "05-분노-전체16쌍-규격통일.svg",
+      "pattern": "pattern23_3144_3765",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        1170.37,
+        1718.98,
+        311.9000000000001,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/angry/12.png"
+    },
+    {
+      "source": "05-분노-전체16쌍-규격통일.svg",
+      "pattern": "pattern24_3144_3765",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        104.818,
+        1961.0,
+        220.0,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/angry/13.png"
+    },
+    {
+      "source": "05-분노-전체16쌍-규격통일.svg",
+      "pattern": "pattern25_3144_3765",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        360.459,
+        2019.09,
+        307.872,
+        100.00000000000023
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/angry/13.png"
+    },
+    {
+      "source": "05-분노-전체16쌍-규격통일.svg",
+      "pattern": "pattern26_3144_3765",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        914.268,
+        1961.13,
+        220.00199999999995,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/angry/14.png"
+    },
+    {
+      "source": "05-분노-전체16쌍-규격통일.svg",
+      "pattern": "pattern27_3144_3765",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        1175.51,
+        2020.65,
+        297.8499999999999,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/angry/14.png"
+    },
+    {
+      "source": "05-분노-전체16쌍-규격통일.svg",
+      "pattern": "pattern28_3144_3765",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        105.045,
+        2261.11,
+        220.0,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/angry/15.png"
+    },
+    {
+      "source": "05-분노-전체16쌍-규격통일.svg",
+      "pattern": "pattern29_3144_3765",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        360.102,
+        2318.99,
+        314.91100000000006,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/angry/15.png"
+    },
+    {
+      "source": "05-분노-전체16쌍-규격통일.svg",
+      "pattern": "pattern30_3144_3765",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        914.562,
+        2261.0,
+        219.99799999999993,
+        220.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-round/angry/16.png"
+    },
+    {
+      "source": "05-분노-전체16쌍-규격통일.svg",
+      "pattern": "pattern31_3144_3765",
+      "title": "",
+      "sourceImagePixels": [
+        1672,
+        941
+      ],
+      "crop": [
+        1170.54,
+        2318.99,
+        314.05999999999995,
+        100.0
+      ],
+      "file": "reference/figma-collection-2026-10-29/artwork/stamps-straight/angry/16.png"
+    }
+  ]
+}

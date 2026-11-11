@@ -1,0 +1,51 @@
+/* Remote main 1ae74fcf: WeeklyRankingScreen / PressRankingScreen, 1 CSS px = 1 dp. */
+.ranking-screen { position:relative; height:100%; overflow:hidden; color:#15181B; background:#fff; }
+.ranking-screen * { box-sizing:border-box; }
+.ranking-page { position:absolute; inset:0; background:#fff; overflow:hidden; }
+.ranking-screen .ranking-topbar { height:56px; margin:0; padding:0 64px; display:flex; align-items:center; justify-content:center; font-size:18px; font-weight:700; line-height:27px; white-space:nowrap; }
+.ranking-content { padding-top:12px; padding-bottom:79px; }
+.ranking-week { width:284px; max-width:calc(100% - 48px); height:36px; margin:0 auto; border-radius:24px; background:#F3F4F5; display:flex; align-items:center; font-size:12px; font-weight:600; white-space:nowrap; }
+.ranking-week > span:nth-child(2) { flex:1; text-align:center; }
+.ranking-week-arrow { width:44px; height:36px; flex:none; fill:none; stroke:#15181B; stroke-width:2px; stroke-linecap:round; stroke-linejoin:round; }
+.ranking-week-next { opacity:.35; }
+.ranking-podium { display:flex; gap:8px; align-items:flex-end; padding:0 22px; margin-top:22px; }
+.ranking-podium-card { flex:1; min-width:0; border-radius:16px; background:white; box-shadow:inset 0 0 0 2px #202323, 0 3px #202323; display:flex; flex-direction:column; align-items:center; gap:8px; padding:8px 8px 4px; }
+.ranking-place-1 { padding-top:10px; padding-bottom:10px; }
+.ranking-place-2 { padding-bottom:8px; }
+.ranking-place { font-size:18px; font-weight:700; line-height:27px; }
+.ranking-crown { width:48px; height:24px; object-fit:contain; }
+.ranking-podium-detail { display:flex; flex-direction:column; align-items:center; gap:4px; width:100%; text-align:center; }
+.ranking-podium-name { font-size:11px; font-weight:500; line-height:17px; overflow:hidden; max-height:34px; }
+.ranking-podium-label { font-size:10px; line-height:12px; }
+.ranking-podium-count { font-size:12px; line-height:14px; font-weight:700; }
+.ranking-stamp-list { padding:0 24px; margin-top:25px; display:flex; flex-direction:column; gap:17px; }
+.ranking-stamp-row { display:flex; align-items:center; gap:14px; padding:12px 16px; border-radius:16px; box-shadow:inset 0 0 0 2px #202323, 0 3px #202323; background:white; }
+.ranking-stamp-place { flex:.65; text-align:center; font-size:16px; line-height:24px; font-weight:700; }
+.ranking-stamp-name { flex:2; min-width:0; font-size:13px; line-height:19.5px; font-weight:600; }
+.ranking-stamp-score { display:flex; flex-direction:column; align-items:flex-end; flex:none; }
+.ranking-stamp-score span { color:#808080; font-size:11px; line-height:16.5px; }
+.ranking-stamp-score strong { font-size:15px; line-height:22.5px; font-weight:700; }
+.ranking-filters { margin-top:18px; padding-left:24px; display:flex; gap:8px; overflow:hidden; scrollbar-width:none; }
+.ranking-filters::after { content:""; width:16px; flex:none; }
+.ranking-filter { display:flex; align-items:center; justify-content:center; flex:none; width:72px; height:44px; border:2px solid transparent; border-radius:16px; background:#F0F0EC; font-size:13px; font-weight:500; line-height:20px; }
+.ranking-filter-selected { background:#FFE164; border-color:#202323; font-weight:700; }
+.ranking-my-group-space { position:relative; margin:24px 24px 27px; }
+.ranking-my-group { display:flex; align-items:center; padding:18px 20px; border-radius:24px; box-shadow:inset 0 0 0 2px #202323, 0 3px #202323; gap:16px; }
+.ranking-screen .ranking-my-face { width:78px; height:78px; object-fit:contain; flex:none; display:block; }
+.ranking-my-copy { min-width:0; display:flex; flex-direction:column; gap:1px; }
+.ranking-my-copy > strong { font-size:14px; font-weight:700; line-height:21px; }
+.ranking-my-copy > b { font-size:36px; line-height:42px; font-weight:800; }
+.ranking-my-copy > span { font-size:13px; font-weight:600; line-height:19.5px; white-space:nowrap; }
+.ranking-press-list { display:flex; flex-direction:column; gap:15px; margin:22px 24px 0; }
+.ranking-my-group-space + .ranking-press-list { margin-top:0; }
+.ranking-press-row { padding:13px 18px; border-radius:20px; box-shadow:inset 0 0 0 2px #202323, 0 3px #202323; background:white; display:flex; align-items:center; }
+.ranking-is-mine { background:#FFF3B2; }
+.ranking-press-place { flex:none; margin-right:18px; font-size:21px; line-height:31.5px; font-weight:700; }
+.ranking-press-name { flex:1; min-width:0; margin-left:14px; min-height:42.5px; display:flex; flex-direction:column; justify-content:center; gap:2px; }
+.ranking-press-name strong { font-size:15px; line-height:22.5px; font-weight:700; }
+.ranking-press-name span { font-size:12px; line-height:18px; color:#808080; }
+.ranking-press-count { font-size:21px; line-height:31.5px; font-weight:700; margin-left:3px; }
+.ranking-screen .stamp-slot { flex:none; }
+@media (prefers-reduced-motion:reduce) { .ranking-filters { scroll-behavior:auto; } }
+.app-ranking-container { position: relative; height: 100%; }
+.ranking-stamp-name { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }

@@ -1,0 +1,26 @@
+.mobile-map-story h4 { word-break:keep-all;text-wrap:balance; }
+.mobile-map-story p { word-break:keep-all;overflow-wrap:break-word; }
+.mobile-map-story .technology-demo-heading>p { font-size:15px;line-height:1.9;max-width:900px; }
+.mobile-map-batch-explanation { display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:28px;margin:26px 0; }
+.mobile-map-batch-explanation>div { border-left:4px solid #c8d0cb;padding-left:18px; }
+.mobile-map-batch-explanation>div+div { border-color:var(--yellow); }
+.mobile-map-batch-explanation>div>span { font-size:12px;font-weight:800;color:#626b65; }
+.mobile-map-batch-explanation h5 { margin:8px 0 12px;font-size:18px;font-weight:850;line-height:1.6;word-break:keep-all; }
+.mobile-map-batch-explanation p { margin:0;font-size:15px;line-height:1.9; }
+@media(max-width:800px) { .mobile-map-batch-explanation { grid-template-columns:minmax(0,1fr);gap:24px; } }
+.mobile-map-timings { display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:28px; }
+.mobile-map-timing { min-width:0; }
+.mobile-map-timings h5 { font-size:17px;word-break:keep-all;min-height:48px; }
+.mobile-map-bar { margin-top:22px; }
+.mobile-map-bar>div:first-child { display:flex;justify-content:space-between;gap:12px;font-size:13px;margin-bottom:10px;flex-wrap:wrap; }
+.mobile-map-bar strong { font-variant-numeric:tabular-nums; }
+.mobile-map-track { height:28px;background:#f4f4ef; }
+.mobile-map-track>span { display:block;height:100%;background:#839188; }
+.mobile-map-track>span.is-after { background:var(--yellow); }
+.mobile-map-image-result { border-left:5px solid var(--yellow);padding:18px 24px;margin:28px 0; }
+.mobile-map-image-result>span { font-size:14px;line-height:1.7; }
+.mobile-map-image-result strong { display:block;font-size:clamp(28px,4vw,48px);font-weight:950;line-height:1.6;letter-spacing:-.04em;font-variant-numeric:tabular-nums; }
+.mobile-map-image-result strong>span { color:#68736b;font-size:.75em;font-weight:700; }
+.mobile-map-image-result small { font-size:15px; }
+@media(max-width:1050px) { .mobile-map-timings { grid-template-columns:minmax(0,1fr);gap:32px; }.mobile-map-timings h5 { min-height:0; } }
+@media(max-width:540px) { .mobile-map-image-result { padding:14px 12px; }.mobile-map-image-result strong { font-size:27px; } }

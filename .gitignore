@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.DS_Store
+.wrangler/
+.dev.vars*
+__pycache__/
+/output/
+/reference/figma-collection-2026-10-29/*.svg
+/reference/figma-collection-2026-10-29/artwork/
+/reference/pain-test-received-2026-10-19/

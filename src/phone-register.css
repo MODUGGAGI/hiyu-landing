@@ -1,0 +1,220 @@
+/* Map recording and shared navigation, from an/dev b4ad75c6. */
+.phone-experience[data-demo="register"] .app-map-top {
+  height: 44px;
+}
+.phone-experience[data-demo="register"] .app-map-top .app-nearby {
+  height: 44px;
+  padding: 0 24px;
+  border: 2px solid #000;
+  border-radius: 100px;
+  background: #fff;
+  box-shadow: none;
+  color: #000;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+}
+.phone-experience[data-demo="register"] .app-map-top .app-settings {
+  width: 44px;
+  height: 44px;
+  border: 2px solid #000;
+  border-radius: 20px;
+  background: #fff;
+  box-shadow: none;
+}
+.phone-experience[data-demo="register"] .app-map-controls > span,
+.phone-experience[data-demo="register"] .app-locate-control {
+  width: 48px;
+  height: 48px;
+  border: 0;
+  border-radius: 50%;
+  background: #fff;
+  box-shadow: 0 4px 6px #0003;
+}
+/* Compose tints these exact drawable paths; the source files stay intact. */
+.phone-experience[data-demo="register"] .app-map-controls > span:first-child {
+  --map-control-icon: url("/assets/ic_refresh.svg");
+}
+.phone-experience[data-demo="register"] .app-map-controls > span:last-child,
+.phone-experience[data-demo="register"] .app-locate-control {
+  --map-control-icon: url("/assets/ic_my_location.svg");
+}
+.phone-experience[data-demo="register"] .app-map-controls > span::before,
+.phone-experience[data-demo="register"] .app-locate-control::before {
+  content: "";
+  display: block;
+  width: 24px;
+  height: 24px;
+  background: #2670f8;
+  mask: var(--map-control-icon) center / contain no-repeat;
+}
+.phone-experience[data-demo="register"] .app-map-controls > span > img,
+.phone-experience[data-demo="register"] .app-locate-control > img {
+  display: none;
+}
+
+.phone-experience[data-demo="register"] .memo-sheet .app-record-tabs {
+  position: relative;
+  isolation: isolate;
+  display: flex;
+  height: 42px;
+  gap: 0;
+  padding: 0;
+  overflow: hidden;
+  border: 0;
+  border-radius: 999px;
+  background: #fff;
+  box-shadow: inset 0 0 0 2px #000;
+}
+.phone-experience[data-demo="register"] .memo-sheet .app-record-tabs button {
+  position: relative;
+  z-index: 1;
+  flex: 1;
+  height: 42px;
+  padding: 0;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  box-shadow: none;
+  color: #000;
+  font-size: 14px;
+  font-weight: 600;
+}
+.app-record-indicator {
+  position: absolute;
+  inset: 0 auto 0 0;
+  z-index: 0;
+  width: 50%;
+  border: 2px solid #000;
+  border-radius: 999px;
+  background: #ffe164;
+  pointer-events: none;
+}
+.phone-experience[data-demo="register"]
+  .memo-sheet
+  .app-record-tabs:not(:has(.app-record-indicator))
+  button[aria-pressed="true"] {
+  background: #ffe164;
+  box-shadow: inset 0 0 0 2px #000;
+}
+.phone-experience[data-demo="register"] .memo-sheet .app-sheet-actions {
+  gap: 20px;
+}
+.phone-experience[data-demo="register"]
+  .memo-sheet
+  .app-sheet-actions
+  > button {
+  height: 48px;
+  opacity: 1;
+}
+.phone-experience[data-demo="register"]
+  .memo-sheet
+  .app-sheet-actions
+  > .app-next {
+  --button-fill: #ffe164;
+  --button-stroke: #202323;
+  --button-radius: 999px;
+  flex: 1;
+  padding: 0;
+  border: 0;
+  border-radius: var(--button-radius);
+  background: transparent;
+  box-shadow: none;
+  color: #000;
+  font-size: 16px;
+  font-weight: 700;
+}
+.phone-experience[data-demo="register"] .memo-sheet .app-next:disabled,
+.phone-experience[data-demo="register"] .locate-sheet .app-primary:disabled {
+  --button-fill: #f0f1ec;
+  opacity: 1;
+}
+.phone-experience[data-demo="register"] .locate-sheet .app-primary.app-raised {
+  --button-fill: #ffe164;
+  --button-stroke: #202323;
+  --button-radius: 20px;
+  height: 48px;
+  padding: 0;
+  border: 0;
+  border-radius: var(--button-radius);
+  background: transparent;
+  box-shadow: none;
+  color: #000;
+  font-size: 16px;
+  font-weight: 700;
+}
+.phone-experience[data-demo="register"]
+  .locate-sheet
+  .app-primary.app-raised:disabled {
+  --button-fill: #f0f1ec;
+}
+.phone-experience[data-demo="register"] .app-locate-top .app-top {
+  display: flex;
+  justify-content: center;
+  height: 56px;
+  padding: 0;
+}
+.phone-experience[data-demo="register"] .app-locate-top .app-top > button {
+  position: absolute;
+  left: 8px;
+  display: grid;
+  place-items: center;
+  width: 48px;
+  height: 48px;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: transparent;
+  box-shadow: none;
+  color: #202323;
+}
+.phone-experience[data-demo="register"] .app-locate-top .app-top > button img,
+.phone-experience[data-demo="register"] .app-locate-top .app-top > button svg {
+  width: 24px;
+  height: 24px;
+}
+.phone-experience[data-demo="register"] .app-locate-top .app-top strong {
+  max-width: calc(100% - 64px);
+  overflow: hidden;
+  color: #202323;
+  font-size: 18px;
+  font-weight: 700;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.phone-experience[data-demo="register"]
+  .registration-group-complete.app-raised {
+  --button-fill: #ffe164;
+  --button-stroke: #202323;
+  --button-radius: 999px;
+  width: min(235px, calc(100% - 32px));
+  height: 41px;
+  padding: 0;
+  border: 0;
+  border-radius: var(--button-radius);
+  background: transparent;
+  box-shadow: none;
+  color: #252826;
+  font-size: 15px;
+  font-weight: 800;
+}
+.phone-experience[data-demo="register"] .registration-voice-panel {
+  padding: 12px 16px;
+}
+.phone-experience[data-demo="register"] .registration-voice-mic.app-raised {
+  --button-fill: #ffe164;
+  --button-stroke: #202323;
+  --button-radius: 50%;
+  width: 52px;
+  height: 52px;
+  border: 0;
+  border-radius: var(--button-radius);
+  background: transparent;
+  box-shadow: none;
+}
+.phone-experience[data-demo="register"] .registration-voice-stop {
+  padding: 12px;
+}
+
+/* Paint both outlines as borders without changing the native content geometry. */

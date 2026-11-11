@@ -1,0 +1,12 @@
+{
+  "repository": "woowacourse-teams/2026-pheeeew",
+  "ref": "an/dev",
+  "sha": "f6c929412e25616e081609ff3769fee26519bb0c",
+  "paths": [
+    "feature/screens/press/PressScreen.kt",
+    "feature/emotion/component/EmotionPad.kt",
+    "feature/emotion/component/EmotionPadArrangement.kt",
+    "feature/emotion/component/EmotionPadButton.kt",
+    "feature/component/AppBottomNavigationBar.kt"
+  ]
+}

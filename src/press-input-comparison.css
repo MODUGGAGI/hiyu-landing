@@ -1,0 +1,42 @@
+.press-input-comparison { margin:28px 0;padding:24px 18px 6px;border:2px solid var(--ink);border-radius:24px;background:#fff; }
+.press-compare-layout { display:grid;grid-template-columns:minmax(220px,.9fr) minmax(0,1.6fr);gap:40px;align-items:center; }
+.press-compare-controls { display:flex;flex-direction:column;align-items:center;gap:28px;padding:100px 16px 0;text-align:center; }
+.press-compare-hint { position:relative;padding:9px 16px;border:2px solid var(--ink);border-radius:16px;background:var(--yellow);color:var(--ink);font-size:16px;font-weight:900;line-height:1.4;box-shadow:0 3px 0 var(--ink);transform:rotate(-4deg);pointer-events:none; }
+.press-compare-hint::after { content:'';position:absolute;left:calc(50% - 6px);bottom:-8px;width:12px;height:12px;background:var(--yellow);border-right:2px solid var(--ink);border-bottom:2px solid var(--ink);transform:rotate(45deg); }
+.press-compare-trigger { display:flex;flex-direction:column;align-items:center;gap:14px;padding:6px;border:0;border-radius:16px;background:transparent;color:var(--ink);box-shadow:none;font:inherit;font-size:15px;font-weight:850;cursor:pointer;touch-action:manipulation; }
+.press-compare-trigger-art { position:relative;display:block;width:156px;height:156px;isolation:isolate; }
+.press-compare-trigger-art::before { content:'';position:absolute;inset:-3px;z-index:-1;border:2px solid #fff4b0;border-radius:50%;box-shadow:0 0 5px 2px #ffe36bcc,0 0 14px 6px #ffd43b66,0 0 26px 10px #ffd43b26;pointer-events:none; }
+.press-compare-trigger-art img { position:absolute;inset:0;width:100%;height:100%;object-fit:contain;pointer-events:none; }
+.press-compare-trigger:active .press-compare-trigger-art { transform:translateY(3px) scale(.95); }
+.press-compare-trigger:focus-visible { outline:3px solid var(--ink);outline-offset:5px; }
+.press-compare-total { font-size:14px;font-weight:800;font-variant-numeric:tabular-nums; }
+.press-compare-phones { display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px;min-width:0;width:100%;max-width:600px;justify-self:end; }
+.press-compare-phone { min-width:0; }
+.press-compare-phone>h5 { margin:0 0 16px;text-align:center;font-size:17px;font-weight:900;line-height:1.6; }
+.press-compare-phone>h5 span { display:block;font-size:13px;font-weight:600;color:#626b65; }
+.press-compare-phone-space { width:100%; }
+.press-input-comparison .phone-experience[data-demo] .device { width:380px;zoom:var(--phone-scale);margin:0 auto; }
+.press-compare-feedback { text-align:center;margin-top:16px;min-height:55px;font-size:14px;line-height:1.8; }
+.press-compare-feedback strong,.press-compare-feedback span { display:block; }
+.press-compare-feedback span { color:#626b65;font-size:12px; }
+.technology-story .press-compare-note { max-width:300px;text-align:center;margin:4px 0 0;font-size:12px;font-weight:400;line-height:1.85; }
+/* Native dp sizes from an/dev f6c9294; local page headings must not change the phone UI. */
+.press-input-comparison .press-heading h3 { margin:0;font-size:24px;letter-spacing:0;line-height:35px;text-wrap:initial; }
+.press-input-comparison .press-heading p { max-width:none;word-break:normal; }
+.press-input-comparison .press-ranking-link { border:0;border-radius:0;box-shadow:none; }
+.press-input-comparison .phone-app .app-nav { height:57px; }
+.press-input-comparison .phone-app .app-nav>button { height:57px; }
+.press-input-comparison .phone-app .app-nav-indicator { top:5px;bottom:5px;border-width:1.5px; }
+@media(max-width:800px) {
+ .press-input-comparison { padding:22px 12px 4px; }
+ .press-compare-layout { grid-template-columns:minmax(0,1fr);gap:28px; }
+ .press-compare-controls { padding-top:0;gap:14px; }
+ .press-compare-trigger-art { width:104px;height:104px; }
+}
+@media(max-width:540px) {
+ .press-compare-phones { grid-template-columns:minmax(0,1fr);gap:28px; }
+ .press-input-comparison .phone-experience[data-demo] .device { max-width:none; }
+}
+@media(prefers-reduced-motion:reduce) {
+ .press-compare-trigger:active .press-compare-trigger-art { transform:none; }
+}

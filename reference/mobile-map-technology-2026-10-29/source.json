@@ -1,0 +1,11 @@
+{
+  "repository": "woowacourse-teams/2026-pheeeew",
+  "ref": "an/dev",
+  "sha": "d0e30ffced6499754040ac7f39ab97799025f774",
+  "paths": [
+    "feature/screens/map/MapScreen.kt",
+    "feature/screens/map/overlay/MapOverlay.kt",
+    "feature/screens/map/record/EmotionBubbleCluster.kt",
+    "feature/component/AppBottomNavigationBar.kt"
+  ]
+}

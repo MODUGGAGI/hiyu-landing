@@ -1,0 +1,18 @@
+{
+  "name": "pheeeew-pain-assets",
+  "account_id": "e4e1d37ea4c4c4091d6693c1f3ccf9d9",
+  "compatibility_date": "2026-10-19",
+  "main": "worker/index.js",
+  "assets": {
+    "directory": "site",
+    "binding": "ASSETS",
+    "run_worker_first": ["/pain-test/api/*"],
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "404-page"
+  },
+  "d1_databases": [{
+    "binding": "POLLS_DB",
+    "database_name": "pheeeew-pain-polls",
+    "database_id": "007ee1ce-b1f5-42e0-85e7-3ba901a62cd4"
+  }]
+}

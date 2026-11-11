@@ -1,0 +1,311 @@
+/* an/dev b4ad75c: RaisedButtonBorder, RaisedPressEffect and group detail.
+   Keep the base fixed; only the face and its content descend on press. */
+.phone-app .app-raised {
+  --button-fill: #ffe164;
+  --button-stroke: #202323;
+  --button-radius: 999px;
+  position: relative;
+  isolation: isolate;
+  border: 0;
+  border-radius: var(--button-radius);
+  background: transparent;
+  box-shadow: none;
+  overflow: visible;
+  transform: none;
+  color: #000;
+}
+.phone-app .app-raised::after,
+.phone-app .app-raised::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: var(--button-radius);
+  pointer-events: none;
+}
+.phone-app .app-raised::after {
+  z-index: -2;
+  background: var(--button-stroke);
+  transform: translateY(3px);
+}
+.phone-app .app-raised::before {
+  z-index: -1;
+  border: 2px solid var(--button-stroke);
+  background: var(--button-fill);
+}
+.phone-app .app-raised::before,
+.phone-app .app-raised > .app-button-content {
+  transform: translateY(0);
+  transition: transform 80ms cubic-bezier(0.25, 0.1, 0.25, 1);
+}
+.phone-app .app-raised > .app-button-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+.phone-app
+  .app-raised:is([data-pressed="true"], :active):not(:disabled)::before,
+.phone-app
+  .app-raised:is([data-pressed="true"], :active):not(:disabled)
+  > .app-button-content {
+  transform: translateY(2px);
+  transition-duration: 0ms;
+}
+.phone-app .app-raised:disabled {
+  --button-fill: #f0f1ec;
+  opacity: 1;
+}
+.phone-app .app-raised:disabled::after {
+  display: none;
+}
+.phone-app .app-top {
+  height: 54px;
+  padding: 0 14px;
+}
+.phone-app .app-top strong {
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0;
+  padding: 0 8px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.phone-app .app-top button {
+  width: 42px;
+  height: 42px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+}
+.phone-app .app-top button img {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
+.phone-app .app-top .app-more {
+  flex-direction: column;
+  gap: 4.4px;
+}
+.app-more i {
+  width: 3.6px;
+  height: 3.6px;
+  border-radius: 50%;
+  background: #202323;
+}
+.app-room-content {
+  padding: 0 17px 16px;
+}
+.app-room-content > :not(.app-pad) {
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.app-room .app-members {
+  margin-top: 0;
+  margin-bottom: 8px;
+  height: 34px;
+  font-size: 16px;
+  color: #7b817b;
+  font-weight: 400;
+}
+.app-members > span {
+  padding-left: 4px;
+}
+.app-room .app-invite {
+  min-width: 71px;
+  height: 34px;
+  border: 0;
+  padding: 0;
+  background: transparent;
+  display: grid;
+  place-items: center;
+}
+.app-invite > span {
+  background: #f0f2ec;
+  border-radius: 999px;
+  padding: 6px 15px;
+  font-size: 11px;
+  line-height: 13px;
+  font-weight: 700;
+  color: #202323;
+}
+.app-room h3 {
+  font-size: 28px;
+  line-height: 34px;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+.app-room .app-subtitle {
+  font-size: 14px;
+  line-height: 20px;
+  margin-top: 4px;
+  margin-bottom: 36px;
+  color: #7b817b;
+}
+/* EmotionPad.kt scales all five positions with min(availableWidth / 354, 1). */
+.app-room .app-pad {
+  display: block;
+  position: relative;
+  width: calc(100% - 16px);
+  max-width: 354px;
+  aspect-ratio: 354 / 345;
+  margin: 0 auto;
+  container-type: inline-size;
+}
+.app-room .app-pad-item {
+  position: absolute;
+  width: 29.661017%;
+  height: 48.695652%;
+  top: 0;
+  display: block;
+  text-align: center;
+}
+.app-room .item-0 {
+  left: 0;
+}
+.app-room .item-1 {
+  left: 35.169492%;
+}
+.app-room .item-2 {
+  left: 70.338983%;
+}
+.app-room .item-3 {
+  left: 17.584746%;
+  top: 51.304348%;
+}
+.app-room .item-4 {
+  left: 52.754237%;
+  top: 51.304348%;
+}
+.phone-app .app-room .emotion-button {
+  width: 100%;
+  height: 65.47619%;
+}
+.phone-app .app-room .emotion-button .button-surface {
+  width: 104.7619%;
+  height: 104.54545%;
+  inset: auto;
+  left: -2.38095%;
+  top: calc(-2.27273% - 4px);
+  transform-origin: 50% 80%;
+}
+.phone-app .app-room .emotion-button .face {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  top: 0;
+  left: 0;
+  transform: none;
+}
+.app-room .app-pad-item > span:not(.auto-touch) {
+  position: absolute;
+  top: 69.047619%;
+  left: 0;
+  width: 100%;
+  margin: 0;
+  font-size: 4.519774cqw;
+  line-height: 5.367232cqw;
+  font-weight: 700;
+  color: #242725;
+}
+.app-room .app-pad-item > strong {
+  position: absolute;
+  top: 82.5%;
+  left: 0;
+  width: 100%;
+  margin: 0;
+  font-size: 5.649718cqw;
+  line-height: 6.779661cqw;
+  font-weight: 700;
+  color: #777c78;
+}
+.app-room .app-total {
+  margin-top: 20px;
+  margin-bottom: 8px;
+  height: 26px;
+}
+.app-room .app-total > span {
+  font-size: 12px;
+  font-weight: 600;
+}
+.app-room .app-total strong {
+  font-size: 20px;
+  font-weight: 700;
+}
+.app-room .app-summary {
+  height: 42px;
+  border-radius: 12px;
+  font-size: 14px;
+  font-weight: 600;
+}
+.app-room .app-weekly {
+  margin-top: 24px;
+  height: 70px;
+  padding: 0;
+  align-items: center;
+}
+.app-room .app-weekly > span {
+  height: 69px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  font-size: 12px;
+  font-weight: 600;
+}
+.app-room .app-weekly strong {
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 700;
+  margin-top: 0;
+}
+/* Native reaction stickers use outlined cards, including +1. */
+.phone-particles .particle--text,
+.phone-particles .particle--plus {
+  box-sizing: content-box;
+  padding: 9px 14px;
+  border: 0;
+  border-radius: 12px;
+  background: var(--sticker-color);
+  box-shadow:
+    inset 0 0 0 2px #242725,
+    1px 4px 0 #242725;
+  color: #242725;
+  font-size: 19px;
+  line-height: 20.9px;
+  font-weight: 900;
+  letter-spacing: -0.6px;
+  text-shadow: none;
+}
+.phone-particles .particle--text > span {
+  display: block;
+  transform: translateY(-1px);
+}
+.phone-particles .particle--plus {
+  padding: 8.5px 11px;
+  background: #ffe36e;
+}
+.phone-particles .particle--plus > span {
+  display: block;
+  transform: translateY(-0.5px);
+}
+.phone-particles .particle--emoji {
+  font-size: 35px;
+  line-height: 42px;
+}
+.app-soap-surface {
+  position: absolute;
+  inset: 0;
+  transform-origin: 50% 80%;
+}
+.app-bubble-choices .app-choice-face {
+  display: block;
+  margin: 0;
+}
+@media (prefers-reduced-motion: reduce) {
+  .phone-app .app-raised::before,
+  .phone-app .app-raised > .app-button-content {
+    transition: none;
+  }
+}

@@ -1,0 +1,158 @@
+.registration-voice-preview {
+  color: #000;
+}
+.registration-voice-panel {
+  height: 105px;
+  border: 2px solid #000;
+  border-radius: 20px;
+  padding: 10px 14px;
+  overflow: hidden;
+}
+.registration-voice-ready,
+.registration-voice-recording,
+.registration-voice-completed {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  border: 0;
+  color: #000;
+  background: transparent;
+  font-size: 14px;
+  font-weight: 400;
+  text-align: left;
+}
+.registration-voice-ready {
+  display: grid;
+  place-items: center;
+}
+.registration-voice-mic {
+  display: grid;
+  place-items: center;
+  width: 52px;
+  height: 52px;
+  border: 2px solid #000;
+  border-radius: 50%;
+  background: #ffe164;
+}
+.registration-voice-mic img {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
+.registration-voice-recording,
+.registration-voice-completed {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.registration-voice-header {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 20px;
+  gap: 6px;
+  flex: none;
+  line-height: 20px;
+  white-space: nowrap;
+}
+.registration-voice-dot {
+  flex: none;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: currentColor;
+}
+.registration-voice-recording .registration-voice-header {
+  color: #e26962;
+}
+.registration-voice-recording time {
+  margin-left: auto;
+  color: #000;
+}
+.registration-voice-body {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex: 1;
+  min-height: 0;
+  width: 100%;
+}
+.registration-voice-stop {
+  width: 40px;
+  height: 40px;
+  flex: none;
+  padding: 10px;
+  border: 2px solid #000;
+  border-radius: 50%;
+  background: #fff;
+}
+.registration-voice-stop > span {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-radius: 4px;
+  background: #e26962;
+}
+.registration-voice-again {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  margin-left: auto;
+  padding: 0;
+  border: 0;
+  color: #000;
+  background: transparent;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+}
+.registration-voice-again img {
+  width: 16px;
+  height: 16px;
+  filter: brightness(0);
+}
+.registration-voice-play {
+  display: grid;
+  place-items: center;
+  width: 50px;
+  height: 50px;
+  flex: none;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: #000;
+}
+.registration-voice-waveform {
+  position: relative;
+  flex: 1;
+  height: 48px;
+  max-height: 100%;
+  min-width: 0;
+}
+.registration-voice-waveform > svg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+.registration-voice-support {
+  display: block;
+  min-height: 24px;
+  padding-top: 6px;
+}
+.registration-voice-preview button {
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+.registration-voice-preview button:focus-visible {
+  outline: 2px solid #000;
+  outline-offset: 3px;
+}
+.registration-voice-sr {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}

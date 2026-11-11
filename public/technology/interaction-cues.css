@@ -1,0 +1,26 @@
+/* Bouncy invitations; keep the existing rotation and press transforms. */
+@keyframes technology-invite-bounce {
+  0%, 40%, 72%, 100% { translate: var(--invite-x, 0) 0; }
+  20% { translate: var(--invite-x, 0) -16px; }
+  56% { translate: var(--invite-x, 0) -7px; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  #hiyu-map-compare .hc-drag-hint,
+  .map-display-comparison:not([data-playing=true]) .map-display-controls>button,
+  .press-compare-hint,
+  .press-compare-trigger-art,
+  #hiyu-notification-restart .demo:not([data-phase=playing]) [data-start] {
+    animation: technology-invite-bounce .8s ease-in-out infinite;
+  }
+  #hiyu-map-compare .hc-drag-hint { --invite-x: -50%; }
+  .press-compare-trigger-art { animation-delay: .15s; }
+
+  #hiyu-map-compare .hm-drag:is(:hover, :focus, :active) .hc-drag-hint,
+  #hiyu-map-compare[data-dragging] .hc-drag-hint,
+  .map-display-comparison .map-display-controls>button:is(:hover, :focus, :active),
+  .press-compare-controls:has(.press-compare-trigger:is(:hover, :focus, :active)) .press-compare-hint,
+  .press-compare-trigger:is(:hover, :focus, :active) .press-compare-trigger-art,
+  #hiyu-notification-restart .demo [data-start]:is(:hover, :focus, :active) {
+    animation: none;
+  }
+}

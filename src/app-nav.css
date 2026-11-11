@@ -1,0 +1,80 @@
+/* AppBottomNavigationBar.kt · main 1ae74fc · CSS pixels match app dp. */
+.phone-experience .app-nav {
+  position: absolute;
+  left: 20px;
+  right: 20px;
+  bottom: 12px;
+  height: 55px;
+  max-width: 356px;
+  margin-inline: auto;
+  display: flex;
+  align-items: center;
+  gap: 0;
+  padding: 0;
+  overflow: hidden;
+  border: 0;
+  border-radius: 999px;
+  background: #fff;
+  box-shadow: none;
+  z-index: 8;
+}
+.phone-experience .app-nav::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  border: 2px solid #202323;
+  border-radius: inherit;
+  pointer-events: none;
+}
+.phone-experience .app-nav > button,
+.phone-experience .app-nav > .app-nav-label {
+  position: relative;
+  z-index: 1;
+  flex: 1;
+  min-width: 0;
+  height: 55px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 0 2px;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  box-shadow: none;
+  color: #202323;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 700;
+  white-space: nowrap;
+}
+.phone-experience .app-nav svg,
+.phone-experience .app-nav .app-nav-icon { width: 20px; height: 20px; flex: none; }
+.phone-experience .app-nav .nav-map { transform: scale(.96); }
+.phone-experience .app-nav .nav-groups,
+.phone-experience .app-nav .nav-press { transform: scale(1.02); }
+.phone-experience .app-nav .nav-ranking { transform: scale(1.2); }
+.phone-experience .app-nav-indicator {
+  position: absolute;
+  top: 3.5px;
+  bottom: 3.5px;
+  z-index: 0;
+  border: 2px solid #202323;
+  border-radius: 999px;
+  background: #ffe164;
+  pointer-events: none;
+}
+.phone-experience .app-nav-ranking { padding-left: 48px; }
+.phone-experience .app-nav-ranking > .app-nav-label { gap: 8px; }
+.phone-experience .app-nav-ranking > .app-nav-back {
+  position: absolute;
+  left: 7.5px;
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  background: #f2f2f2;
+}
+.phone-experience .app-nav-back svg { transform: translateX(-2.5px); }
+.phone-experience .app-nav-ticket { width: 22px; height: 17px; object-fit: contain; }
+.phone-experience .app-nav-face { width: 24px; height: 24px; object-fit: contain; }

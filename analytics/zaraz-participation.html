@@ -1,0 +1,96 @@
+<script>(function () {
+  if (window.__hiyuStats) return;
+  var isTest = /^\/pain-test(?:\/|$)/.test(location.pathname);
+  if (!isTest && location.pathname !== '/') return;
+  window.__hiyuStats = true;
+  var labels = {suneung:'시험',company:'회사',love:'연애',job:'취업',landing:'랜딩'};
+  var run = null, resultNode = null, memory = {};
+  var testMode = new URLSearchParams(location.search).get('stats_test') === '1';
+  var sourceLabels = {x:'X',threads:'Threads',instagram:'Instagram',kakao:'Kakao',other:'기타',unknown:'직접또는알수없음'};
+  var sourceKey = 'hiyu_source_v1_' + (testMode ? 'test' : 'live');
+  function resolveSource(search, referrer, stored, now) {
+    var query = new URLSearchParams(search), raw = (query.get('utm_source') || '').trim().toLowerCase();
+    var aliases = {x:'x',twitter:'x',threads:'threads',thread:'threads',instagram:'instagram',insta:'instagram',ig:'instagram',kakao:'kakao',kakaotalk:'kakao'};
+    if (raw) return {source:Object.prototype.hasOwnProperty.call(aliases,raw)?aliases[raw]:'other',method:'utm',at:now};
+    try {
+      var host = new URL(referrer).hostname.toLowerCase();
+      if (host !== 'pheeeew.com' && host !== 'www.pheeeew.com') {
+        var source = /(^|\.)(x\.com|twitter\.com|t\.co)$/.test(host) ? 'x' : /(^|\.)(threads\.net|threads\.com)$/.test(host) ? 'threads' : /(^|\.)instagram\.com$/.test(host) ? 'instagram' : /(^|\.)(kakao\.com|kakao\.link)$/.test(host) ? 'kakao' : 'other';
+        return {source:source,method:'referrer',at:now};
+      }
+    } catch(e) {}
+    if (stored && Object.prototype.hasOwnProperty.call(sourceLabels,stored.source) && /^(utm|referrer|unknown)$/.test(stored.method) && now-stored.at >= 0 && now-stored.at < 1800000) return stored;
+    return {source:'unknown',method:'unknown',at:now};
+  }
+  var previousSource;
+  try { previousSource = JSON.parse(sessionStorage.getItem(sourceKey)); } catch(e) {}
+  var attribution = resolveSource(location.search, document.referrer, previousSource, Date.now());
+  function rememberSource() {
+    attribution.at = Date.now();
+    try { sessionStorage.setItem(sourceKey,JSON.stringify(attribution)); } catch(e) {}
+  }
+  rememberSource();
+  function emit(name) {
+    if (!window.zaraz || !zaraz.track) return;
+    rememberSource();
+    name = (testMode?'검증_':'') + name;
+    // Only allowlisted source labels; no raw referrer, URL, nickname or user ID.
+    Promise.resolve(zaraz.track(name,{source:attribution.source,source_method:attribution.method})).then(function(){diagnostic(name+' 전송 완료');},function(){diagnostic(name+' 전송 실패');});
+  }
+  function currentSeason() {
+    var tab = document.querySelector('.tab[aria-pressed="true"]');
+    if (tab && labels[tab.dataset.k]) return tab.dataset.k;
+    var text = (document.querySelector('.seasonline') || {}).textContent || '';
+    return /회사/.test(text) ? 'company' : /연애/.test(text) ? 'love' : /취업/.test(text) ? 'job' : /시험|수능/.test(text) ? 'suneung' : (run && run.season);
+  }
+  function send(season, action) {
+    if (!labels[season]) return;
+    emit(labels[season]+'_'+action);
+    if (action === '시작횟수' || action === '완료횟수') emit('유입_'+sourceLabels[attribution.source]+'_'+labels[season]+'_'+action);
+  }
+  function diagnostic(message) {
+    if(!testMode)return;
+    var box=document.getElementById('hiyu-stats-check');
+    if(!box){box=document.createElement('pre');box.id='hiyu-stats-check';box.style.cssText='white-space:pre-wrap;background:#fff6ce;padding:12px;font-size:12px;color:#222';document.body.appendChild(box);}
+    box.textContent=(box.textContent+'\n'+message).trim().split('\n').slice(-12).join('\n');
+  }
+  function person(season, action) {
+    // Daily browser estimate, no identifier or nickname is transmitted.
+    var date = new Date(Date.now()+32400000).toISOString().slice(0,10);
+    var key = 'hiyu_stats_v1_'+(testMode?'test_':'')+season+'_'+action;
+    try {if(localStorage.getItem(key)===date)return; localStorage.setItem(key,date);} catch(e) {if(memory[key]===date)return;memory[key]=date;}
+    send(season,action+'인원_일별');
+  }
+  document.addEventListener('click',function(event){
+    var button=event.target.closest('button,a');
+    if(!button || button.disabled)return;
+    if (!isTest) {
+      if(button.matches('a.pain-test-link'))send('landing','테스트이동클릭');
+      return;
+    }
+    var season=currentSeason();
+    if(button.matches('a.app-intro-link')) {
+      if(season)send(season,'앱소개클릭');
+      return;
+    }
+    if(button.id==='start' || button.id==='again') {
+      if(!season)return;
+      run={season:season,completed:false};
+      send(season,'시작횟수');person(season,'시작');return;
+    }
+    var names={share:'링크공유클릭',copy:'링크복사클릭',sharestory:'스토리공유클릭',saveimg:'이미지저장클릭','copy-test-link':'테스트링크복사클릭',play:'앱다운로드클릭',home:'다른시험보기클릭'};
+    if(names[button.id] && season)send(season,names[button.id]);
+  },true);
+  function observe(){
+    var result=document.querySelector('.result');
+    if(result && result!==resultNode){
+      resultNode=result;
+      if(run && !run.completed){run.completed=true;send(run.season,'완료횟수');person(run.season,'완료');}
+    }
+  }
+  var observer=new MutationObserver(observe);
+  if(isTest){observer.observe(document.body,{childList:true,subtree:true});observe();}
+  emit('유입_'+sourceLabels[attribution.source]+'_'+(isTest?'테스트':'랜딩')+'방문횟수');
+  diagnostic('통계 검증 모드 · 운영 집계와 분리됨');
+})();
+</script>
